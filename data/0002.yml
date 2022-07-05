@@ -1,0 +1,53 @@
+---
+record: 2
+name: 'it / idä V'
+formula_gloss: 'PROH-2SG / PROH-2PL V'
+illustration: 'iktə̈-län=ät i-t kelesə̈!'
+illustration_gloss_russian: 'никто-DAT=ADD PROH-2SG говорить'
+illustration_gloss_english: ''
+illustration_translation_russian: '‘Никому не говори!’'
+illustration_translation_english: ''
+definitions:
+  - russian: |
+       Конструкция выражает запрет выполнить некоторое действие. Этот запрет обращен к собеседнику.
+examples:
+  - |
+       onton'i it mägə̈rə̈ öl'cäš läkmə̈kə̈ man'ə̑.
+examples_glosses_russian:
+  - |
+       Антонина PROH-2SG плакать улица-ILL говорить-CVB.POST говорить-AOR.3SG
+examples_glosses_english:
+examples_translation_russian:
+  - |
+       ‘Не плачь, Антонина, - сказал, когда вышли на улицу’.
+examples_translation_english:
+examples_sources:
+morphology:
+  - V
+  - PROH
+  - SG
+  - PL
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - NA
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+comment: |
+    'См. антонимичную конструкцию 1.'
+references:
+  - |
+    
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+family:
+  - |
+    ""

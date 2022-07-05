@@ -1,62 +1,80 @@
 ---
 record: 1
-name: '(а) как же NP-Nom?'
-UD_name: '(а) как же NP-Nom?'
-illustration: 'А как же мама?'
-cefr_level: A1
+name: 'V / V-da'
+formula_gloss: 'V.IMP / V-IMP.2PL'
+illustration: 'kn'igä-m juk dono lə̑t-Ø.'
+illustration_gloss_russian: 'книга голос с читать-IMP'
+illustration_gloss_english: 'book-ACC voice with read-IMP'
+illustration_translation_russian: '‘Читай книгу вслух’.'
+illustration_translation_english: '‘Read the book out loud’.'
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы напомнить адресату о [каком-либо факте]Theme, который он должен принять во внимание. Этот факт известен всем участникам беседы.
+       Конструкция выражает побуждение выполнить некоторое действие. Это побуждение обращено к собеседнику.
   - english: |
-       This construction is used to remind the addressee of [some fact]Theme, which they must take into consideration. This fact is known to all of the participants in the conversation.
-  - norwegian: |
-       Konstruksjonen anvendes for å minne adressaten på [et faktum]Theme som vedkommende må ta i betraktning. Faktumet er kjent for alle deltakerne i samtalen.
+       This construction is used to express causation to perform an action. This causation is directed towards the addressee.
 examples:
   - |
-       Иван поднял голову и спросил: ― А как же [я]Theme? ― Ты будешь жить с женой и воспитывать сына, ― ответила Ирина.
+       nu kə̑ce mə̑št-et tenge šajə̑š-Ø.
   - |
-       ― Всё, ― объявил водитель, ― дальше не поеду. ― Как же [деньги]Theme? Я заплатил за билет!
+       “mə̈n' toša-em-ə̈n-äm vekät, mə̈n'-ə̈m ə̈nde šə̑pš-ə̑n lə̑k-da”, - man-eš v'in'n'i pux.
   - |
-       В нашем городе ему предложили хорошую работу, поэтому он недолго думая сорвался с насиженного места и уехал. ― А как же  [жена и дети]Theme? ― поинтересовалась Маша.
+       t'ot'a man-eš: “vaštə̑l-da, vaštə̑l-da”, - man-eš.
+examples_glosses_russian:
   - |
-       Но как только разговор заходит о семейном обучении, первым делом звучит: «А как же [общение]Theme? [Социализация]Theme?»
+       ну как уметь-NPST.2SG так говорить-IMP
   - |
-       В деревне делали более лёгкую пиццу: тесто поливали оливковым маслом, выкладывали маслины или вообще ничем не украшали. А как же [томаты]Theme, спросите вы. Ведь без них попросту невозможно представить себе пиццу.
+       я худой-INCH-PRET-1SG вероятно я-ACC теперь тянуть-CVB извлекать-IMP.2PL говорить-NPST.3SG Винни-Пух
+  - |
+       дедушка говорить-NPST.3SG смеяться-IMP.2PL смеяться-IMP.2PL говорить-NPST.3SG
+examples_glosses_english:
+  - |
+       well how be_able-NPST.2SG this_way say-IMP
+  - |
+       I thin-INCH-PRET-1SG probably I-ACC now pull-CVB extract-IMP.2PL say-NPST.3SG Winnie-the-Pooh
+  - |
+       grandfather say-NPST.3SG laugh-IMP.2PL laugh-IMP.2PL say-NPST.3SG
+examples_translation_russian:
+  - |
+       ‘Ну, как умеешь, так и говори’.
+  - |
+       ‘«Я, наверно, похудел, теперь вытащите меня», - говорит Винни-Пух’.
+  - |
+       ‘Дедушка говорит: «Смейтесь-смейтесь», - говорит’.
+examples_translation_english:
+  - |
+       ‘Well, say it the way you can’.
+  - |
+       ‘“It seems that I have lost weight, pull me out now”, — says Winnie-the-Pooh’.
+  - |
+       ‘Grandfather says: “Laugh, laugh”, — he says’.
+examples_sources:
+  - |
+       [Корпус: “Акпарс”, 29]
+  - |
+       [Корпус: “Пересказ мультфильма о Винни-Пухе”, 79]
+  - |
+       [Корпус: “Смешной случай”, 19]
 morphology:
-  - NP
-  - Nom
+  - V
+  - IMP
+  - PL
 syntactic_type_of_construction:
-  - Clause
+  - Morphological construction
 syntactic_function_of_anchor:
-  - Praedicative Expression
+  - Word-Formation
 syntactic_structure_of_anchor:
-  - Not Applicable
+  - NA
 part_of_speech_of_anchor:
-  - Conjunction
-  - Pronoun
-  - Particle
-semantic_roles:
-  - Theme
-intonation:
-  - Interrogative
-usage_label: ~
-dependency_structure:
-  - '[root как [advmod же] [nsubj NP-Nom]]'
-  - '[root [cc а] как [advmod же] [nsubj NP-Nom]]'
-dependency_structure_of_illustration:
-  - '[root [cc А] как [advmod же] [nsubj мама]?]'
+  - NA
 comment: |
-    'Не путать с конструкцией 682. См. другие конструкции, которые содержат "как же": 1107, 1108, 1109, 1814, 2015.'
-common_fillers:
-  - ~
+    'См. антонимичную конструкцию 2.'
 references:
   - |
-    No references
+    
 semantic_types:
-  - type: Mirative
-  - type: Reaction to the previous discourse
+  - type: Causation
     subtypes:
-      - type: Surprise
+      - type: Direct
 family:
   - |
     ""
