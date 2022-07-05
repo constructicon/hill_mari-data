@@ -30,8 +30,7 @@ def print_as_yaml_list(string_spreadsheet, split_sequence):
         if ":" in line or "[" in line or "]" in line:
             s += f"  - '{line}'\n"
         else:
-            if line.strip() != "":
-                s += f"  - {line}\n"
+            s += f"  - {line}\n"
     return s
 
 
@@ -46,21 +45,61 @@ def write_record(row, record):
         f.write("---\n")
         f.write(f"record: {record}\n")
         f.write(f"name: '{row['Name'].strip()}'\n")
-        f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
+        # f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
+        f.write(f"formula_gloss: '{row['Gloss for the formula'].strip()}'\n")
+
         f.write(f"illustration: '{row['Illustration'].strip()}'\n")
-        f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
+        f.write(f"illustration_gloss_russian: '{row['Gloss for the illustration (Russian)'].strip()}'\n")
+        f.write(f"illustration_gloss_english: '{row['Gloss for the illustration (English)'].strip()}'\n")
+        f.write(f"illustration_translation_russian: '{row['Translation for the illustration (Russian)'].strip()}'\n")
+        f.write(f"illustration_translation_english: '{row['Translation for the illustration (English)'].strip()}'\n")
+
         f.write("definitions:\n")
-        for language in ["Russian", "English", "Norwegian"]:
+        for language in ["Russian", "English"]:
             entry = row[f"Definition in {language}"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
                 f.write(f"       {entry}\n")
         f.write("examples:\n")
-        for column in ["Example 1", "Example 2", "Example 3", "Example 4", "Example 5"]:
+        for column in ["Example 1: sentence", "Example 2: sentence", "Example 3: sentence"]:
             entry = row[column].strip()
             if entry != "":
                 f.write("  - |\n")
                 f.write(f"       {entry}\n")
+        f.write("examples_glosses_russian:\n")
+        for column in ["Example 1: gloss (Russian)", "Example 2: gloss (Russian)", "Example 3: gloss (Russian)"]:
+            entry = row[column].strip()
+            if entry != "":
+                f.write("  - |\n")
+                f.write(f"       {entry}\n")
+
+        f.write("examples_glosses_english:\n")
+        for column in ["Example 1: gloss (English)", "Example 2: gloss (English)", "Example 3: gloss (English)"]:
+            entry = row[column].strip()
+            if entry != "":
+                f.write("  - |\n")
+                f.write(f"       {entry}\n")
+
+        f.write("examples_translation_russian:\n")
+        for column in ["Example 1: translation (Russian)", "Example 2: translation (Russian)", "Example 3: translation (Russian)"]:
+            entry = row[column].strip()
+            if entry != "":
+                f.write("  - |\n")
+                f.write(f"       {entry}\n")
+
+        f.write("examples_translation_english:\n")
+        for column in ["Example 1: translation (English)", "Example 2: translation (English)", "Example 3: translation (English)"]:
+            entry = row[column].strip()
+            if entry != "":
+                f.write("  - |\n")
+                f.write(f"       {entry}\n")
+        f.write("examples_sources:\n")
+        for column in ["Example 1: source", "Example 2: source", "Example 3: source"]:
+            entry = row[column].strip()
+            if entry != "":
+                f.write("  - |\n")
+                f.write(f"       {entry}\n")
+
         f.write("morphology:\n")
         f.write(print_as_yaml_list(row["Morphology"], split_sequence))
         f.write("syntactic_type_of_construction:\n")
@@ -71,43 +110,19 @@ def write_record(row, record):
         f.write(print_as_yaml_list(row["Synt. structure of anchor"], split_sequence))
         f.write("part_of_speech_of_anchor:\n")
         f.write(print_as_yaml_list(row["Part of speech of anchor"], split_sequence))
-        f.write("semantic_roles:\n")
-        f.write(print_as_yaml_list(row["Semantic role"], split_sequence))
-        f.write("intonation:\n")
-        f.write(
-            print_as_yaml_list(
-                row["Communicative type"],
-                split_sequence,
-            )
-        )
-        f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
-
-        f.write("dependency_structure:\n")
-        f.write(print_as_yaml_list(row["Dependency Structure"], split_sequence))
-        f.write("dependency_structure_of_illustration:\n")
-        f.write(
-            print_as_yaml_list(
-                row["Dependency Structure of Illustration"].replace("\\n", " "),
-                ["+"],
-            )
-        )
 
         entry = row["Comment"].strip()
         if entry != "":
             f.write("comment: |\n")
             f.write(f"    '{entry}'\n")
 
-        f.write("common_fillers:\n")
-        f.write(
-            print_as_yaml_list(
-                row["Common fillers"],
-                split_sequence,
-            )
-        )
-
         f.write("references:\n")
         f.write("  - |\n")
-        f.write("    " + row["References"].strip() + "\n")
+        try:
+            f.write("    " + row["References"] + "\n")
+        # to catch keyerror when encoding symbol appears after getting the csv from xlsx:
+        except KeyError:
+            f.write("    " + row["\ufeffReferences"] + "\n")
         f.write("semantic_types:\n")
         for tag in tags:
             if row[tag] != "":
@@ -129,7 +144,10 @@ def write_record(row, record):
 
 if __name__ == "__main__":
     with open(sys.argv[-1], "r") as f:
-        reader = csv.DictReader(f)
+        reader = csv.DictReader(f, delimiter=';')
         for row in reader:
-            record = int(row["ID Number"])
+            try:
+                record = int(row["ID Number"])
+            except ValueError:
+                pass
             write_record(row, record)
