@@ -48,7 +48,7 @@ def write_record(row, record):
         # f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
         f.write(f"formula_gloss: '{row['Gloss for the formula'].strip()}'\n")
 
-        f.write(f"illustration: '{row['Illustration'].strip()}'\n")
+        f.write(f"illustration: \"{row['Illustration'].strip()}\"\n")
         f.write(f"illustration_gloss_russian: '{row['Gloss for the illustration (Russian)'].strip()}'\n")
         f.write(f"illustration_gloss_english: '{row['Gloss for the illustration (English)'].strip()}'\n")
         f.write(f"illustration_translation_russian: '{row['Translation for the illustration (Russian)'].strip()}'\n")
