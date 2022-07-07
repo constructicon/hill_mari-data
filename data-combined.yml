@@ -1,0 +1,206 @@
+---
+1:
+  name: 'V / V-da'
+  formula_gloss: 'V.IMP / V-IMP.2PL'
+  illustration: "kn'igä-m juk dono lə̑t-Ø."
+  illustration_gloss_russian: 'книга голос с читать-IMP'
+  illustration_gloss_english: 'book-ACC voice with read-IMP'
+  illustration_translation_russian: '‘Читай книгу вслух’.'
+  illustration_translation_english: '‘Read the book out loud’.'
+  definitions:
+    - russian: |
+         Конструкция выражает побуждение выполнить некоторое действие. Это побуждение обращено к собеседнику.
+    - english: |
+         This construction is used to express causation to perform an action. This causation is directed towards the addressee.
+  examples:
+    - |
+         nu kə̑ce mə̑št-et tenge šajə̑š-Ø.
+    - |
+         “mə̈n' toša-em-ə̈n-äm vekät, mə̈n'-ə̈m ə̈nde šə̑pš-ə̑n lə̑k-da”, - man-eš v'in'n'i pux.
+    - |
+         t'ot'a man-eš: “vaštə̑l-da, vaštə̑l-da”, - man-eš.
+  examples_glosses_russian:
+    - |
+         ну как уметь-NPST.2SG так говорить-IMP
+    - |
+         я худой-INCH-PRET-1SG вероятно я-ACC теперь тянуть-CVB извлекать-IMP.2PL говорить-NPST.3SG Винни-Пух
+    - |
+         дедушка говорить-NPST.3SG смеяться-IMP.2PL смеяться-IMP.2PL говорить-NPST.3SG
+  examples_glosses_english:
+    - |
+         well how be_able-NPST.2SG this_way say-IMP
+    - |
+         I thin-INCH-PRET-1SG probably I-ACC now pull-CVB extract-IMP.2PL say-NPST.3SG Winnie-the-Pooh
+    - |
+         grandfather say-NPST.3SG laugh-IMP.2PL laugh-IMP.2PL say-NPST.3SG
+  examples_translation_russian:
+    - |
+         ‘Ну, как умеешь, так и говори’.
+    - |
+         ‘«Я, наверно, похудел, теперь вытащите меня», - говорит Винни-Пух’.
+    - |
+         ‘Дедушка говорит: «Смейтесь-смейтесь», - говорит’.
+  examples_translation_english:
+    - |
+         ‘Well, say it the way you can’.
+    - |
+         ‘“It seems that I have lost weight, pull me out now”, — says Winnie-the-Pooh’.
+    - |
+         ‘Grandfather says: “Laugh, laugh”, — he says’.
+  examples_sources:
+    - |
+         [Корпус: “Акпарс”, 29]
+    - |
+         [Корпус: “Пересказ мультфильма о Винни-Пухе”, 79]
+    - |
+         [Корпус: “Смешной случай”, 19]
+  morphology:
+    - V
+    - IMP
+    - PL
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - NA
+  comment: |
+      'См. антонимичную конструкцию 2.'
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+  family:
+    - |
+      ""
+2:
+  name: 'it / idä V'
+  formula_gloss: 'PROH-2SG / PROH-2PL V'
+  illustration: 'iktə̈-län=ät i-t kelesə̈!'
+  illustration_gloss_russian: 'никто-DAT=ADD PROH-2SG говорить'
+  illustration_gloss_english: ''
+  illustration_translation_russian: '‘Никому не говори!’'
+  illustration_translation_english: ''
+  definitions:
+    - russian: |
+         Конструкция выражает запрет выполнить некоторое действие. Этот запрет обращен к собеседнику.
+  examples:
+    - |
+         onton'i it mägə̈rə̈ öl'cäš läkmə̈kə̈ man'ə̑.
+  examples_glosses_russian:
+    - |
+         Антонина PROH-2SG плакать улица-ILL говорить-CVB.POST говорить-AOR.3SG
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         ‘Не плачь, Антонина, - сказал, когда вышли на улицу’.
+  examples_translation_english:
+  examples_sources:
+  morphology:
+    - V
+    - PROH
+    - SG
+    - PL
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Verb
+    - Negation Marker
+  comment: |
+      'См. антонимичную конструкцию 1.'
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+    - type: Prohibition
+      subtypes:
+        - type: Prohibitive
+  family:
+    - |
+      ""
+3:
+  name: 'V-žə̑ / V-(ə̑)štə̑'
+  formula_gloss: 'V-JUSS.SG / V-JUSS.PL'
+  illustration: 'kelesə̈-žə̈ ma-m tuma-ja.'
+  illustration_gloss_russian: 'говорить-JUSS.SG что-ACC думать-NPST.3SG'
+  illustration_gloss_english: ''
+  illustration_translation_russian: '‘Пусть скажет, что думает’.'
+  illustration_translation_english: ''
+  definitions:
+    - russian: |
+         Конструкция выражает побуждение выполнить некоторое действие. Это побуждение обращено к участнику, не участвующему в разговоре. Говорящий ожидает, что собеседник передаст участнику содержание побуждения.
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+  examples_translation_english:
+  examples_sources:
+  morphology:
+    - V
+    - JUSS
+    - SG
+    - PL
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - NA
+  comment: |
+      'См. антонимичную конструкцию 4.'
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Indirect
+  family:
+    - |
+      ""
+4:
+  name: ''
+  formula_gloss: ''
+  illustration: ''
+  illustration_gloss_russian: ''
+  illustration_gloss_english: ''
+  illustration_translation_russian: ''
+  illustration_translation_english: ''
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+  examples_translation_english:
+  examples_sources:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
