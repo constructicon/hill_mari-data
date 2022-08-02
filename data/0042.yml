@@ -1,0 +1,59 @@
+---
+record: 42
+name: 'NP-Gen VP-mə̑(-Poss) šoeš ə̑l'ə̑ / ə̑lə̑n'
+formula_gloss_russian: 'NP-GEN VP-NMLZ(-POSS) достигать-NPST.3SG RETR1 / RETR2'
+formula_gloss_english: ''
+illustration: "mə̈n'-ə̈n tengečə̈ tol-m-em šo-eš ə̑l'ə̑ gə̈n', mə̈n' tol-am ə̑lə̑n."
+illustration_gloss_russian: 'я-GEN вчера приходить-NMLZ-POSS.1SG достигать-NPST.3SG RETR1 если я приходить-NPST.1SG RETR2'
+illustration_gloss_english: 'I-GEN yesterday come-NMLZ-POSS.1SG reach-NPST.3SG RETR1 if I come-NPST.1SG RETR2'
+illustration_translation_russian: '‘Если бы мне вчера хотелось прийти, я бы пришел’.'
+illustration_translation_english: '‘If I had wanted to come yesterday, I would have come’.'
+definitions:
+examples:
+examples_glosses_russian:
+examples_glosses_english:
+examples_translation_russian:
+  - |
+       ‘’.
+  - |
+       ‘’.
+  - |
+       ‘’.
+examples_translation_english:
+  - |
+       ‘’.
+  - |
+       ‘’.
+  - |
+       ‘’.
+examples_sources:
+morphology:
+  - NP
+  - GEN
+  - VP
+  - NMLZ
+  - POSS
+  - NPST
+  - 3
+  - SG
+  - RETR1
+  - RETR2
+syntactic_type_of_construction:
+  - Matrix and Complement Construction
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Past
+  - type: Volition
+family:
+  - |
+    ""
