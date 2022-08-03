@@ -1,0 +1,76 @@
+---
+record: 26
+name: "NP-Nom VP-Cvb mə̑štaš"
+formula_gloss_russian: "NP-NOM VP-CVB уметь"
+formula_gloss_english: ""
+illustration: "tə̈n’ jažo-n rovotaj-en mə̑št-et."
+illustration_gloss_russian: "ты хороший-ADV работать-CVB уметь-NPST.2SG"
+illustration_gloss_english: "you good-ADV work-CVB be_able-NPST.2SG"
+illustration_translation_russian: "‘Ты хорошо умеешь работать’."
+illustration_translation_english: "‘You can work well’."
+definitions:
+examples:
+  - |
+       "mə̈n' kə̑rgə̑ž-tal-Ø-žə̑ jažo-n mə̑št-em ə̑l'ə."
+  - |
+       "mə̈n'ə̈ mə̑r-en-žə̈ vot a-m mə̑štə̑."
+  - |
+       "vot ti pi ə̈nde ti-škə̈ tol-ə̑n mə̑št-en."
+examples_glosses_russian:
+  - |
+       "я бежать-ATT-CVB-POSS.3SG хороший-ADV уметь-NPST.1SG RETR1"
+  - |
+       "я петь-CVB-POSS.3SG вот NEG.NPST-1SG уметь"
+  - |
+       "вот этот собака теперь этот-ILL приходить-CVB уметь-PRET"
+examples_glosses_english:
+  - |
+       "I run-ATT-CVB-POSS.3SG good-ADV be_able-NPST.1SG RETR2"
+  - |
+       "I sing-CVB-POSS.3SG here_it_is NEG.NPST-1SG be_able"
+  - |
+       "here_it_is this dog now this-ILL come_in-CVB be_able-PRET"
+examples_translation_russian:
+  - |
+       "‘Я хорошо бегать умел’."
+  - |
+       "‘Я петь вот [сама] не умею’."
+  - |
+       "‘Вот эта собака нашла сюда дорогу’."
+examples_translation_english:
+  - |
+       "‘I could run well back then’."
+  - |
+       "‘As for me, I can't sing’."
+  - |
+       "‘This exact dog found the way here’."
+examples_sources:
+  - |
+       "[Корпус: “Армейская байка о водке”, 51]"
+  - |
+       "[Корпус: “Книги брата и песни”, 58]"
+  - |
+       "[Корпус: “Пересказ мультфильма "Песнь моря"”, 48]"
+morphology:
+  - NP
+  - NOM
+  - VP
+  - CVB
+syntactic_type_of_construction:
+  - Matrix and Complement Construction
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+family:
+  - |
+    ""

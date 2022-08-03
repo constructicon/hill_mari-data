@@ -1,0 +1,82 @@
+---
+record: 43
+name: "VP / VP-ne-Poss ə̑lnežə̈"
+formula_gloss_russian: "VP / VP-DES-POSS ASSERT"
+formula_gloss_english: ""
+illustration: "vazə̑-m kot'i pə̑də̑r-t-en ə̑lnežə̈."
+illustration_gloss_russian: "ваза-ACC кошка ломаться-CAUS-PRET ASSERT"
+illustration_gloss_english: "vase-ACC cat break-CAUS-PRET ASSERT"
+illustration_translation_russian: "‘Это же кошка разбила вазу {а не мы с братиком}’."
+illustration_translation_english: "‘That's the cat who broke the vase {not my brother and I}’."
+definitions:
+examples:
+  - |
+       "tə̈n'ə̈ kavšta-m nal-ə̈n-ät ə̑lnežə̈."
+  - |
+       "pi opt-a ə̑lnežə̈."
+  - |
+       "mə̈n' ške už-ə̑n-am, kə̑ce pet'a mägə̈r-en ə̑lnežə̈."
+examples_glosses_russian:
+  - |
+       "ты капуста брать-PRET-2SG ASSERT"
+  - |
+       "собака лаять-NPST.3SG ASSERT"
+  - |
+       "я REFL видеть-PRET-1SG как Петя плакать-PRET ASSERT"
+examples_glosses_english:
+  - |
+       "you cabbage take-PRET-2SG ASSERT"
+  - |
+       "dog bark-NPST.3SG ASSERT"
+  - |
+       "I REFL see-PRET-1SG how Petya cry-PRET ASSERT"
+examples_translation_russian:
+  - |
+       "‘Ты же купил капусту. {Не одолжишь мне немного?}’"
+  - |
+       "‘Собака лает. {Открой дверь!}’"
+  - |
+       "‘Я сам видел, как Петя действительно плакал’."
+examples_translation_english:
+  - |
+       "‘You bought cabbage, right? {Will you give me some?}’"
+  - |
+       "‘The dog is barking. {Open the door!}’"
+  - |
+       "‘I saw myself that Petya cried indeed’."
+examples_sources:
+  - |
+       "[Мордашова (в печати)]"
+  - |
+       "[Мордашова (в печати)]"
+  - |
+       "[Мордашова (в печати)]"
+morphology:
+  - VP
+  - DES
+  - POSS
+  - ASSERT
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+family:
+  - |
+    ""
