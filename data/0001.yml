@@ -72,7 +72,7 @@ comment: |
     "См. антонимичную конструкцию 2."
 references:
   - |
-    
+
 semantic_types:
   - type: Causation
     subtypes:

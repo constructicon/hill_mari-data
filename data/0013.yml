@@ -57,7 +57,7 @@ part_of_speech_of_anchor:
   - NA
 references:
   - |
-    
+
 semantic_types:
   - type: Attitude
     subtypes:

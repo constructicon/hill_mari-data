@@ -68,7 +68,7 @@ comment: |
     "См. синонимичные констукции 10, 11 и 12"
 references:
   - |
-    
+
 semantic_types:
   - type: Request
   - type: Routine

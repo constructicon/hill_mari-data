@@ -64,7 +64,7 @@ part_of_speech_of_anchor:
   - Particle
 references:
   - |
-    
+
 semantic_types:
   - type: Causation
     subtypes:

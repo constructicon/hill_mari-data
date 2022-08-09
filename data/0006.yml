@@ -49,7 +49,7 @@ comment: |
     "См. синонимичную конструкции 5 и 7"
 references:
   - |
-    
+
 semantic_types:
   - type: Causation
     subtypes:

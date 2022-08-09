@@ -65,7 +65,7 @@ comment: |
     "См. антонимичную конструкцию 3."
 references:
   - |
-    
+
 semantic_types:
   - type: Causation
     subtypes:
