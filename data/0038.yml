@@ -1,0 +1,81 @@
+---
+record: 38
+name: "NP-Gen VP-mə̑(-Poss) šoeš/šon"
+formula_gloss_russian: "NP-GEN VP-NMLZ(-POSS) достигать-NPST.3SG/достигать-PRET"
+formula_gloss_english: ""
+illustration: "mə̈n\'-ə̈n mägə̈rə̈-m-em šo-eš."
+illustration_gloss_russian: "я-GEN плакать-NMLZ-POSS.1SG достигать-NPST.3SG"
+illustration_gloss_english: "I-GEN cry-NMLZ-POSS.1SG reach-NPST.3SG"
+illustration_translation_russian: "\‘Мне хочется плакать\’."
+illustration_translation_english: "\‘I want to cry\’."
+definitions:
+examples:
+  - |
+       "tə̈n\'-žə̈
+ škol-ə̑škə̑-žə̑ tə̑men\'-äš kaš-m-et-šə̈ šo-eš?"
+  - |
+       "ə̈nde kač-mə̑ paštek rovotajə̑-mə̑-ž=at a-k šo, vac-mə̑ vel šo-eš."
+  - |
+       "pirə̈-n kon\'ešnə so šo-eš kač-mə̑."
+examples_glosses_russian:
+  - |
+       "ты-POSS.3SG школа-ILL-POSS.3SG учиться-INF ходить-PTCP.PASS/NMLZ-POSS.2SG-POSS.3SG достигать-NPST.3SG"
+  - |
+       "теперь есть-PTCP.PASS/NMLZ после работать-PTCP.PASS/NMLZ-POSS.3SG=ADD NEG.NPST-3 достигать ложиться-PTCP.PASS/NMLZ только достигать-NPST.3SG"
+  - |
+       "волк-GEN конечно всегда достигать-NPST.3SG есть-PTCP.PASS/NMLZ"
+examples_glosses_english:
+  - |
+       "you-POSS.3SG school-ILL-POSS.3SG study-INF walk-PTCP.PASS/NMLZ-POSS.2SG-POSS.3SG reach-NPST.3SG"
+  - |
+       "now eat-PTCP.PASS/NMLZ after work-PTCP.PASS/NMLZ-POSS.3SG=ADD NEG.NPST-3 reach lie-PTCP.PASS/NMLZ only reach-NPST.3SG"
+  - |
+       "woolf-GEN of_course always reach-NPST.3SG eat-PTCP.PASS/NMLZ"
+examples_translation_russian:
+  - |
+       "\‘Тебе хочется в школу ходить учиться?\’"
+  - |
+       "\‘Теперь после еды работать не хочется, только полежать хочется\’."
+  - |
+       "\‘Волку, конечно, постоянно есть хочется\’."
+examples_translation_english:
+  - |
+       "\‘Do you want to go to school and study?\’"
+  - |
+       "\‘Now they don\'t want to work after the meal, only want they to lie for a while\’."
+  - |
+       "\‘Woolf, of course, always wants to eat\’."
+examples_sources:
+  - |
+       "[Корпус: “Диалог с ребенком\”, 61]"
+  - |
+       "[Корпус: “Луга
+\”, 19]"
+  - |
+       "[Корпус: “Пересказ мультфильма \"Жил-был пёс\"\”, 57]"
+morphology:
+  - NP
+  - GEN
+  - VP
+  - NMLZ
+  - POSS
+  - NPST
+  - 3
+  - SG
+  - PRET
+syntactic_type_of_construction:
+  - Matrix and Complement Construction
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""

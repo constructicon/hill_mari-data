@@ -1,0 +1,74 @@
+---
+record: 7
+name: "ajda VP-Imp"
+formula_gloss_russian: "айда V-IMP"
+formula_gloss_english: ""
+illustration: "ajda šajə̑š."
+illustration_gloss_russian: "айда говорить-IMP"
+illustration_gloss_english: "let_us say-IMP"
+illustration_translation_russian: "\‘Давай говори\’."
+illustration_translation_english: "\‘Go ahead, speak\’."
+definitions:
+examples:
+  - |
+       "ajda, ertə̈-Ø, ertə̈-Ø, šə̈c-Ø!"
+  - |
+       "ajda šə̈c-tä čaj jü-äš."
+  - |
+       "ajda eče ik-ta-ma-m näl-Ø."
+examples_glosses_russian:
+  - |
+       "айда проходить-IMP проходить-IMP сидеть-IMP"
+  - |
+       "айда сидеть-IMP.2PL чай пить-INF"
+  - |
+       "айда еще один-INDEF1-что-ACC брать-IMP"
+examples_glosses_english:
+  - |
+       "let_us come_in-IMP come_in-IMP sit-IMP"
+  - |
+       "let_us sit-IMP.2PL tea drink-INF"
+  - |
+       "let_us else one-INDEF1-what-ACC take-IMP"
+examples_translation_russian:
+  - |
+       "\‘Давай, проходи, проходи, садись!\’"
+  - |
+       "\‘Давайте садитесь чай пить\’."
+  - |
+       "\‘Давай, еще что-нибудь купи\’."
+examples_translation_english:
+  - |
+       "\‘Go ahead, come in, come in, sit down!\’"
+  - |
+       "\‘Go ahead, sit down and have some tea\’."
+  - |
+       "\‘Go ahead, buy something else\’."
+examples_sources:
+  - |
+       "[Корпус: “Диалог и рассказ о клюкве\”, 15]"
+  - |
+       "[Корпус: “Диалог о жизни\”, 39]"
+  - |
+       "[Корпус: “Диалоги в магазине\”, 15]"
+morphology:
+  - V
+  - IMP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse particle
+syntactic_structure_of_anchor:
+  - NA
+part_of_speech_of_anchor:
+  - Particle
+references:
+  - |
+    
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+family:
+  - |
+    ""

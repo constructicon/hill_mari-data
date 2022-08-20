@@ -1,0 +1,55 @@
+---
+record: 19
+name: "VP-žə̑ ə̑l\'ə̑ / ə̑lnežə̈"
+formula_gloss_russian: "VP-JUSS.SG RETR1 / ASSERT"
+formula_gloss_english: ""
+illustration: "irgod-ə̑m jur li-žə̈ ə̑lnežə̈!"
+illustration_gloss_russian: "завтрашний_день-ACC дождь становиться-JUSS.SG ASSERT"
+illustration_gloss_english: "tomorrow-ACC rain become-JUSS.SG ASSERT"
+illustration_translation_russian: "\‘Был бы завтра дождь!\’"
+illustration_translation_english: "\‘I wish it rained tomorrow\’."
+definitions:
+examples:
+examples_glosses_russian:
+examples_glosses_english:
+examples_translation_russian:
+  - |
+       "\‘\’."
+  - |
+       "\‘\’."
+  - |
+       "\‘\’."
+examples_translation_english:
+  - |
+       "\‘\’."
+  - |
+       "\‘\’."
+  - |
+       "\‘\’."
+examples_sources:
+morphology:
+  - VP
+  - JUSS
+  - SG
+  - RETR1
+  - ASSERT
+syntactic_type_of_construction:
+  - Morphological construction
+  - Clause
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Future
+  - type: Volition
+family:
+  - |
+    ""

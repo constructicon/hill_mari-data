@@ -1,0 +1,77 @@
+---
+record: 37
+name: "NP-Nom VP-ne-Poss"
+formula_gloss_russian: "NP-NOM VP-DES-POSS"
+formula_gloss_english: ""
+illustration: "maša u poxan\'a-m näl-ne-žə̈."
+illustration_gloss_russian: "Маша новый кукла-ACC брать-DES-POSS.3SG"
+illustration_gloss_english: "Masha new doll-ACC take-DES-POSS.3SG"
+illustration_translation_russian: "\‘Маша хочет купить новую куклу\’."
+illustration_translation_english: "\‘Masha wants to buy a new doll\’."
+definitions:
+examples:
+  - |
+       "\"kek-ə̈m kə̑čə̑-ne-m\", - man-eš."
+  - |
+       "pol\'icejsk\'ij-vlä kə̑dal-ə̑t - moren-ə̈m budka gə̈c pirə̈ lə̑k-ne-žə̈."
+  - |
+       "vot ə̈də̈räš ə̈-ne-žə̈ ke, jangə̑l-en, piš kogo-n kaxə̑r-a."
+examples_glosses_russian:
+  - |
+       "птица-ACC держать-DES-1SG говорить-NPST.3SG"
+  - |
+       "полицейский-PL бежать-NPST.3PL заяц-ACC будка EL волк извлекать-DES-3SG"
+  - |
+       "вот девочка NEG.DES-DES-3SG идти уставать-PRET очень большой-ADV кашлять-NPST.3SG"
+examples_glosses_english:
+  - |
+       "bird-ACC hold-DES-1SG say-NPST.3SG"
+  - |
+       "policeman-PL run-NPST.3PL hare-ACC booth EL wolf extract-DES-3SG"
+  - |
+       "here_it_is girl NEG.DES-DES-3SG go get_tired-PRET very big-ADV cough-NPST.3SG"
+examples_translation_russian:
+  - |
+       "\‘\"Птицу хочу поймать\", - говорит\’."
+  - |
+       "\‘Полицейские уедут - волк зайца из будки хочет вытащить\’."
+  - |
+       "\‘Вот девочка не хочет идти, устала, сильно кашляет\’."
+examples_translation_english:
+  - |
+       "\‘\"I want to catch a bird\", - he says\’."
+  - |
+       "\‘Policemen leave and the wolf wants to take the hare from the booth\’."
+  - |
+       "\‘The girl doesn\'t want to go, she\'s tired and coughs a lot\’."
+examples_sources:
+  - |
+       "[Корпус: “Пересказ мультфильма \"Жил-был пёс\"\”, 27]"
+  - |
+       "[Корпус: “Пересказ мультфильма \"Ну погоди\"
+\”, 8]"
+  - |
+       "[Корпус: “Пересказ мультфильма \"Песнь моря\"\”, 62]"
+morphology:
+  - NP
+  - NOM
+  - VP
+  - DES
+  - POSS
+syntactic_type_of_construction:
+  - Morphological construction
+  - Clause
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""
