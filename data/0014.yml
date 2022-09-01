@@ -1,0 +1,50 @@
+---
+record: 14
+name: "VP-Npst ližə̈"
+formula_gloss_russian: "VP-NPST становиться-JUSS.SG"
+formula_gloss_english: ""
+illustration: "mə̈n' kol-em li-žə̈, mə̈n' altal-em gə̈n'."
+illustration_gloss_russian: "я умирать-NPST.1SG становиться-JUSS.SG я обманывать-NPST.1SG если"
+illustration_gloss_english: "I die-NPST.1SG become-JUSS.SG I lie-NPST.1SG if"
+illustration_translation_russian: "‘Чтоб я сдох, если говорю неправду’."
+illustration_translation_english: "‘I'd die if I am lying’."
+definitions:
+examples:
+examples_glosses_russian:
+examples_glosses_english:
+examples_translation_russian:
+  - |
+       "‘’."
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_translation_english:
+  - |
+       "‘’."
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_sources:
+morphology:
+  - VP
+  - NPST
+  - JUSS
+  - SG
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""

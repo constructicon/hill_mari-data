@@ -1,0 +1,58 @@
+---
+record: 16
+name: "VP-Pret ə̑lgecə̈"
+formula_gloss_russian: "VP-PRET COND"
+formula_gloss_english: ""
+illustration: "mə̈n' inst'itut-ə̑š  pə̑r-en-äm ə̑lgecə̈!"
+illustration_gloss_russian: "я институт-ILL входить-PRET-1SG COND"
+illustration_gloss_english: "I college-ILL come_in-PRET-1SG COND"
+illustration_translation_russian: "‘Вот бы мне поступить в институт!’"
+illustration_translation_english: "‘I wish I entered a college’."
+definitions:
+examples:
+  - |
+       "mašinä man-ə̑n-at ə̑lgecə̈, päl-em ə̑lə̑n srazə̑."
+examples_glosses_russian:
+  - |
+       "машина говорить-PRET-2SG COND знать-NPST.1SG RETR2 сразу"
+examples_glosses_english:
+  - |
+       "car say-PRET-2SG COND know-NPST.1SG RETR2 immediately"
+examples_translation_russian:
+  - |
+       "‘Если бы сказала, на машине, я бы узнал сразу’."
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_translation_english:
+  - |
+       "‘If she said "by car", I would know immediately’."
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_sources:
+  - |
+       [Корпус: “Игра в шляпу-2
+”, 142]
+morphology:
+  - VP
+  - PRET
+  - COND
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""

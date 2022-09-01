@@ -1,0 +1,82 @@
+---
+record: 39
+name: "NP-Nom VP-ne-Poss ə̑l'ə̑ / ə̑lnežə̈"
+formula_gloss_russian: "NP-NOM VP-DES-POSS RETR1 / ASSERT"
+formula_gloss_english: ""
+illustration: "mə̈n' irgod-ə̑m koncert-ə̈š ke-ne-m ə̑l'ə̑."
+illustration_gloss_russian: "я завтрашний_день-ACC концерт-ILL идти-DES-POSS.1SG RETR1"
+illustration_gloss_english: "I tomorrow-ACC concert-ILL go-DES-POSS.1SG RETR1"
+illustration_translation_russian: "‘Я бы хотел завтра пойти на концерт’."
+illustration_translation_english: "‘I'd like to go to the concert tomorrow’."
+definitions:
+examples:
+  - |
+       "i vot ma-m šajə̑š-ne-m ə̑l'ə̑ väl tidə̈ giš-än, l'iza-vlä giš-än?"
+  - |
+       "mə̈ń i-ne-m ə̑lnežə."
+  - |
+       "mə̈n' piš mə̑rə̑-ne-m ə̑lnežə̈, no a-m kerd."
+examples_glosses_russian:
+  - |
+       "и вот что-ACC говорить-DES-1SG RETR1 QUEST этот о-LAT2 Лиза-PL о-LAT2"
+  - |
+       "я плавать-DES-1SG ASSERT"
+  - |
+       "я очень петь-DES-1SG ASSERT но NEG.NPST-1SG мочь"
+examples_glosses_english:
+  - |
+       "and here_it_is what-ACC say-DES-1SG RETR1 QUEST this about-LAT2 Liza-PL about-LAT2"
+  - |
+       "I swim-DES-1SG ASSERT"
+  - |
+       "I very sing-DES-1SG ASSERT but NEG.NPST-1SG can"
+examples_translation_russian:
+  - |
+       "‘И вот что я хотела сказать про это, про Лизу и ее семью?’"
+  - |
+       "‘Я бы хотел плавать’."
+  - |
+       "‘Я и хотел бы петь, но не могу’."
+examples_translation_english:
+  - |
+       "‘And what I wanted to say about this, about Liza and her family?’"
+  - |
+       "‘I'd like to swim’."
+  - |
+       "‘I would be happy to sing but I can't’."
+examples_sources:
+  - |
+       [Корпус: “Диалог о проблемах
+”, 192]
+  - |
+       [Alhoniemi 1993: 122]
+  - |
+       [Мордашова (в печати)]
+morphology:
+  - NP
+  - NOM
+  - VP
+  - DES
+  - POSS
+  - RETR1
+  - ASSERT
+syntactic_type_of_construction:
+  - Morphological construction
+  - Clause
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Volition
+family:
+  - |
+    ""

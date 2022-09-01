@@ -1,0 +1,84 @@
+---
+record: 25
+name: "NP-Nom VP-Cvb kerdäš"
+formula_gloss_russian: "NP-NOM VP-CVB мочь"
+formula_gloss_english: ""
+illustration: "mə̈n' tə̈-län-et palš-en kerd-äm."
+illustration_gloss_russian: "я ты-DAT-POSS.2SG помогать-CVB мочь-NPST.1SG"
+illustration_gloss_english: "I you-DAT-POSS.2SG help-CVB can-NPST.1SG"
+illustration_translation_russian: "‘Я могу тебе помочь’."
+illustration_translation_english: "‘I can help you’."
+definitions:
+examples:
+  - |
+       "složnə̑j saxə̑r ... saxə̑r-ə̑m d'iab'et'ik-vlä usvajivə̑j-en a-k kert-ep, insul'in-ə̑štə̑
+ čə̈də̈."
+  - |
+       "ti-škə̈ ik-tä=t pə̑r-en a-k kert-ep."
+  - |
+       "möskä-vlä kə̈zə̈t=ät ə̈l-en kerd-ə̈t tə̈štäken."
+examples_glosses_russian:
+  - |
+       "сложный сахар сахар-ACC диабетик-PL усваивать-CVB NEG.NPST-3 мочь-3PL инсулин-POSS.3PL мало"
+  - |
+       "этот-ILL один-INDEF2=ADD входить-CVB NEG.NPST-3 мочь-3PL"
+  - |
+       "медведь-PL сейчас=ADD жить-CVB мочь-NPST.3PL там"
+examples_glosses_english:
+  - |
+       "complex sugar sugar-ACC diabetic-PL absorb-CVB NEG.NPST-3 can-3PL insulin-POSS.3PL little"
+  - |
+       "this-ILL one-INDEF2=ADD come_in-CVB NEG.NPST-3 can-3PL"
+  - |
+       "bear-PL now=ADD live-CVB can-NPST.3PL there"
+examples_translation_russian:
+  - |
+       "‘Сложные сахара... сахар диабетики не могут усваивать, мало инсулина’."
+  - |
+       "‘Сюда никто не может заходить’."
+  - |
+       "‘Медведи и по сей день могут там жить’."
+examples_translation_english:
+  - |
+       "‘Compound sugars ... people with diabetes can't metabolise sugar, too little insulin’."
+  - |
+       "‘Nobody can come in here’."
+  - |
+       "‘Bears might still live there’."
+examples_sources:
+  - |
+       [Корпус: “Зимовье пчел
+”, 41]
+  - |
+       [Корпус: “Игра в классики
+”, 23]
+  - |
+       [Корпус: “История и лингвистика
+”, 123]
+morphology:
+  - NP
+  - NOM
+  - VP
+  - CVB
+syntactic_type_of_construction:
+  - Matrix and Complement Construction
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+      - type: Permission
+family:
+  - |
+    ""

@@ -1,0 +1,79 @@
+---
+record: 4
+name: "ə̑nžə̑ V / ə̑nžə̑štə̑ V-ep"
+formula_gloss_russian: "NEG.JUSS / NEG.JUSS-PL V-PL"
+formula_gloss_english: ""
+illustration: "tidə̈-m atä-ž-vlä-m ävä-ž-vlä-m ə̑nžə̑ šajə̑št."
+illustration_gloss_russian: "это-ACC отец-POSS.3SG-PL-ACC мать-POSS.3SG-PL-ACC NEG.JUSS говорить"
+illustration_gloss_english: "this-ACC father-POSS.3SG-PL-ACC mother-POSS.3SG-PL-ACC NEG.JUSS say"
+illustration_translation_russian: "‘Пусть он не рассказывает об этом родителям’."
+illustration_translation_english: "‘He should not tell this to his parents’."
+definitions:
+  - russian: |
+       "Конструкция выражает запрет выполнить некоторое действие. Этот запрет обращен к участнику, не участвующему в разговоре. Говорящий ожидает, что собеседник передаст участнику содержание запрета. Конструкция также может выражать желание говорящего, чтобы некоторая ситуация не осуществилась."
+examples:
+  - |
+       "ti budka körg-ə̈štə̈ maxan' xuda šülə̈š ulə̑, tə̈də̈ ə̈nde ə̑nžə̑ li!"
+  - |
+       "rod-et-š=ät ə̈nžə̈ li, pə̈tə̈-žə̈."
+examples_glosses_russian:
+  - |
+       "этот будка внутренность-IN какой плохой дыхание имеется тот теперь NEG.JUSS становиться"
+  - |
+       "род-POSS.2SG-POSS.3SG=ADD JUSS.SG становиться кончаться-JUSS.SG"
+examples_glosses_english:
+  - |
+       "this booth interior-IN which bad breath exist that now NEG.JUSS  become"
+  - |
+       "lineage-POSS.2SG-POSS.3SG=ADD JUSS.SG become end-JUSS.SG"
+examples_translation_russian:
+  - |
+       "‘Какая бы злая сила или злой дух ни были в этой будке, пусть покинут ее навсегда’."
+  - |
+       "‘И пусть весь род твой исчезнет!’"
+  - |
+       "‘’."
+examples_translation_english:
+  - |
+       "‘Whatever evil spirit is in this booth, let it not remain there’."
+  - |
+       "‘And let your lineage disappear (= not exist), let it come to an end’."
+  - |
+       "‘’."
+examples_sources:
+  - |
+       [Акцорин 1995: 32]
+  - |
+       [Акцорин 1995: 181]
+morphology:
+  - V
+  - NEG
+  - JUSS
+  - PL
+syntactic_type_of_construction:
+  - Clause
+  - Morphological construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - NA
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+comment: |
+    "См. антонимичную конструкцию 3."
+references:
+  - |
+    
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+  - type: Volition
+family:
+  - |
+    ""
