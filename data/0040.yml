@@ -1,0 +1,59 @@
+---
+record: 40
+name: "NP-Gen VP-mə̑(-Poss) šoeš ə̑l'ə̑ / ə̑lnežə̈"
+formula_gloss_russian: "NP-GEN VP-NMLZ(-POSS) достигать-NPST.3SG RETR1 / ASSERT"
+formula_gloss_english: ""
+illustration: "mə̈n'-ə̈n irgod-ə̑m koncert-ə̈š ke-m-em šo-eš ə̑lnežə̈."
+illustration_gloss_russian: "я-GEN завтрашний_день-ACC концерт-ILL идти-NMLZ-POSS.1SG достигать-NPST.3SG ASSERT"
+illustration_gloss_english: "I-GEN tomorrow-ACC concert-ILL go-NMLZ-POSS.1SG reach-NPST.3SG ASSERT"
+illustration_translation_russian: "‘Мне бы хотелось завтра пойти на концерт’."
+illustration_translation_english: "‘I'd like to go to the concert tomorrow’."
+definitions:
+examples:
+examples_glosses_russian:
+examples_glosses_english:
+examples_translation_russian:
+  - |
+       "‘’."
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_translation_english:
+  - |
+       "‘’."
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_sources:
+morphology:
+  - NP
+  - GEN
+  - VP
+  - NMLZ
+  - POSS
+  - NPST
+  - 3
+  - SG
+  - RETR1
+  - ASSERT
+syntactic_type_of_construction:
+  - Matrix and Complement Construction
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Volition
+family:
+  - |
+    ""

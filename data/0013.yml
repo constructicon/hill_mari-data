@@ -1,0 +1,68 @@
+---
+record: 13
+name: "VP-Imp - Cl"
+formula_gloss_russian: "VP-IMP - CL"
+formula_gloss_english: ""
+illustration: "okn'am pačə̑n šu - kek pə̑ren keš."
+illustration_gloss_russian: "окно-ACC открывать-CVB бросать-IMP - птица входить-CVB идти-AOR"
+illustration_gloss_english: "window-ACC open-CVB throw-IMP bird come_in-CVB go-AOR"
+illustration_translation_russian: "‘Открываешь окно - вдруг птица влетела’."
+illustration_translation_english: "‘You open the window and suddenly a bird flies in’."
+definitions:
+examples:
+  - |
+       "vad-eš tol-ə̑n šagal-∅, ul'a-m pač-ə̑n koltə̑-∅: ik mükš=ät uke."
+  - |
+       "ikänä kožlanängə̈r-ə̈škə̈ ke-š-ə̈m. karem-eš val-en šagal'-∅-ə̑m. jə̈rväš anž-al-∅ koltə̑-∅ — cilä väre cever	 peled-ə̈š-vlä."
+examples_glosses_russian:
+  - |
+       "вечер-LAT приходить-CVB вставать-IMP улей-ACС открывать-CVB посылать-IMP один пчела=ADD NEG.EX"
+  - |
+       "однажды Кожланангер-ILL идти-AOR-1SG овраг-LAT спускаться-CVB вставать-AOR-1SG	кругом смотреть-ATT-CVB посылать-IMP весь в_месте красивый цвести-NACT-PL"
+examples_glosses_english:
+  - |
+       "evening-LAT come-CVB stand_up-IMP hive-ACС open-CVB send-IMP one bee=ADD NEG.EX"
+  - |
+       "once Kožlananger-ILL go-AOR-1SG ravine-LAT go_down-CVB stand_up-AOR-1SG around look-ATT-CVB send-IMP all in_place beautiful blossom-NACT-PL"
+examples_translation_russian:
+  - |
+       "‘Вечером приходишь, открываешь улей: нет ни одной пчелы’."
+  - |
+       "‘Однажды пошла в Кожланангер. Спустилась в овраг. Смотрю вокруг: повсюду красивые цветы’."
+  - |
+       "‘’."
+examples_translation_english:
+  - |
+       "‘In the evening you come, open the a hive and there is not a single bee’."
+  - |
+       "‘Once I went to Kožlananger. Went down to the ravine. I look around and there are beautiful flowers everywhere’."
+  - |
+       "‘’."
+examples_sources:
+  - |
+       '[Корпус: “Пчеловодческие байки”, 42]' 
+  - |
+       '[Мордашова (в печати)]' 
+morphology:
+  - VP
+  - IMP
+  - CL
+syntactic_type_of_construction:
+  - Biclausal construction
+syntactic_function_of_anchor:
+  - NA
+syntactic_structure_of_anchor:
+  - NA
+part_of_speech_of_anchor:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+  - type: Mirative
+family:
+  - |
+    ""

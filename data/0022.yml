@@ -1,0 +1,74 @@
+---
+record: 22
+name: "VP-šaš"
+formula_gloss_russian: "VP-OPT"
+formula_gloss_english: ""
+illustration: "lapka-š ke-šäš."
+illustration_gloss_russian: "магазин-ILL идти-OPT"
+illustration_gloss_english: "shop-ILL go-OPT"
+illustration_translation_russian: "‘Пойду-ка я в магазин’."
+illustration_translation_english: "‘Why don't I go to the shop’."
+definitions:
+examples:
+  - |
+       "ke-n tol-šaš kuz-ə̑kt-al-aš."
+  - |
+       "ke-n vac-šaš!"
+  - |
+       "jar-a, inžen'er-eš tə̑men'-šäš."
+examples_glosses_russian:
+  - |
+       "идти-CVB приходить-OPT подниматься-CAUS.DIST-ATT-INF"
+  - |
+       "идти-CVB ложиться-OPT"
+  - |
+       "годиться-NPST.3SG инженер-LAT учиться-OPT"
+examples_glosses_english:
+  - |
+       "go-CVB come-OPT lift-CAUS.DIST-ATT-INF"
+  - |
+       "go-CVB lie-OPT"
+  - |
+       "fit-NPST.3SG engineer-LAT study-OPT"
+examples_translation_russian:
+  - |
+       "‘Схожу-ка подниму-ка’."
+  - |
+       "‘Упаду-ка!’"
+  - |
+       "‘Ладно, буду учиться на инженера’."
+examples_translation_english:
+  - |
+       "‘Why don't I go and left it’."
+  - |
+       "‘Why don't I fall down? (intentionally)’."
+  - |
+       "‘Well, I'm studying engineering then’."
+examples_sources:
+  - |
+       '[Корпус: “Прялка”, 38]' 
+  - |
+       '[Мордашова (в печати)]' 
+  - |
+       '[Мордашова (в печати)]' 
+morphology:
+  - VP
+  - OPT
+syntactic_type_of_construction:
+  - Morphological construction
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    См. Zakirova A. The Hill Mari -šaš: speaker's control and its implications. Talk at the 14th Conference on Typology and Grammar for Young Scholars, Saint Petersburg, 23–25 November 2017.
+semantic_types:
+  - type: Volition
+    subtypes:
+      - type: Intention
+family:
+  - |
+    ""

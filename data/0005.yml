@@ -1,0 +1,81 @@
+---
+record: 5
+name: "ajda(t'e) V-na"
+formula_gloss_russian: "айда(те) V-NPST.1PL"
+formula_gloss_english: ""
+illustration: "nə̈nə̈m ajda kə̈čäl kenä."
+illustration_gloss_russian: "те-ACC айда искать-CVB идти-NPST.1PL"
+illustration_gloss_english: "those-ACC let_us search-CVB go-NPST.1PL"
+illustration_translation_russian: "‘Давай пойдем их искать’."
+illustration_translation_english: "‘Let's go look for them’."
+definitions:
+examples:
+  - |
+       "ajda pə̑r-enä teve ti-škə̈."
+  - |
+       "“ajda, — man-eš, — to-kə̑-na ke-nä”."
+  - |
+       "mə̑gə̑ryč-ə̑m ə̈št-enä ajda."
+examples_glosses_russian:
+  - |
+       "айда входить-NPST.1PL вот этот-ILL"
+  - |
+       "айда говорить-NPST.3SG дом-ILL2-POSS.1PL идти-NPST.1PL"
+  - |
+       "магарыч-ACC делать-NPST.1PL айда"
+examples_glosses_english:
+  - |
+       "let_us come_in-NPST.1PL here_it_is this-ILL"
+  - |
+       "let_us say-NPST.3SG house-ILL2-POSS.1PL go-NPST.1PL"
+  - |
+       "magarych-ACC do-NPST.1PL let_us"
+examples_translation_russian:
+  - |
+       "‘Давай зайдем вот сюда’."
+  - |
+       "‘Давай, — говорит, — пойдем ко мне домой’."
+  - |
+       "‘Давай сделаем магарыч’."
+examples_translation_english:
+  - |
+       "‘Let's come in here’."
+  - |
+       "‘Let us, — he says, — go to my place’."
+  - |
+       "‘Let's make a magarych (festive meal)’."
+examples_sources:
+  - |
+       '[Корпус: “Пересказ мультфильма "Песнь моря"”, 74]' 
+  - |
+       '[Корпус: “Армейская байка о водке”, 33]' 
+  - |
+       '[Корпус: “Диалог и рассказ о клюкве”, 33]' 
+morphology:
+  - V
+  - NPST
+  - 1
+  - PL
+syntactic_type_of_construction:
+  - Clause
+  - Morphological construction
+syntactic_function_of_anchor:
+  - Discourse particle
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - NA
+part_of_speech_of_anchor:
+  - Particle
+  - NA
+comment: |
+    "См. синонимичную конструкции 6 и 7"
+references:
+  - |
+    
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+family:
+  - |
+    ""

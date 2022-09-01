@@ -1,0 +1,62 @@
+---
+record: 18
+name: "VP-šaš ə̑l'ə̑ / ə̑lnežə̈"
+formula_gloss_russian: "VP-OPT RETR1 / ASSERT"
+formula_gloss_english: ""
+illustration: "vas'a mad-ə̑n näl-šäš ə̑l'ə̑!"
+illustration_gloss_russian: "Вася играть-CVB брать-OPT RETR1"
+illustration_gloss_english: "Vasja play-CVB take-OPT RETR1"
+illustration_translation_russian: "‘Вот бы Вася выиграл!’"
+illustration_translation_english: "‘I wish Vasya won’."
+definitions:
+examples:
+  - |
+       "irgod-ə̑m xala-š ke-šäš ə̑l'ə̑ / ə̑lnežə̈."
+examples_glosses_russian:
+  - |
+       "завтрашний_день-ACC город-ILL идти-OPT RETR1 ASSERT"
+examples_glosses_english:
+  - |
+       "tomorrow-ACC city-ILL go-OPT RETR1"
+examples_translation_russian:
+  - |
+       "‘Завтра съездить бы в город!’"
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_translation_english:
+  - |
+       "‘It would be great to go to the city tomorrow’."
+  - |
+       "‘’."
+  - |
+       "‘’."
+examples_sources:
+  - |
+       '[Мордашова (в печати)]' 
+morphology:
+  - VP
+  - OPT
+  - RETR1
+  - ASSERT
+syntactic_type_of_construction:
+  - Morphological construction
+  - Clause
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Future
+  - type: Volition
+family:
+  - |
+    ""
