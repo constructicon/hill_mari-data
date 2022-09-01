@@ -1,0 +1,3023 @@
+---
+1:
+  name: "V / V-da"
+  formula_gloss_russian: "V.IMP / V-IMP.2PL"
+  formula_gloss_english: ""
+  illustration: "kn'igä-m juk dono lə̑t-Ø."
+  illustration_gloss_russian: "книга голос с читать-IMP"
+  illustration_gloss_english: "book-ACC voice with read-IMP"
+  illustration_translation_russian: "‘Читай книгу вслух’."
+  illustration_translation_english: "‘Read the book out loud’."
+  definitions:
+    - russian: |
+         "Конструкция выражает побуждение выполнить некоторое действие. Это побуждение обращено к собеседнику."
+    - english: |
+         "This construction is used to express causation to perform an action. This causation is directed towards the addressee."
+  examples:
+    - |
+         "nu kə̑ce mə̑št-et tenge šajə̑š-Ø."
+    - |
+         "“mə̈n' toša-em-ə̈n-äm vekät, mə̈n'-ə̈m ə̈nde šə̑pš-ə̑n lə̑k-da”, - man-eš v'in'n'i pux."
+    - |
+         "t'ot'a man-eš: “vaštə̑l-da, vaštə̑l-da”, - man-eš."
+  examples_glosses_russian:
+    - |
+         "ну как уметь-NPST.2SG так говорить-IMP"
+    - |
+         "я худой-INCH-PRET-1SG вероятно я-ACC теперь тянуть-CVB извлекать-IMP.2PL говорить-NPST.3SG Винни-Пух"
+    - |
+         "дедушка говорить-NPST.3SG смеяться-IMP.2PL смеяться-IMP.2PL говорить-NPST.3SG"
+  examples_glosses_english:
+    - |
+         "well how be_able-NPST.2SG this_way say-IMP"
+    - |
+         "I thin-INCH-PRET-1SG probably I-ACC now pull-CVB extract-IMP.2PL say-NPST.3SG Winnie-the-Pooh"
+    - |
+         "grandfather say-NPST.3SG laugh-IMP.2PL laugh-IMP.2PL say-NPST.3SG"
+  examples_translation_russian:
+    - |
+         "‘Ну, как умеешь, так и говори’."
+    - |
+         "‘«Я, наверно, похудел, теперь вытащите меня», - говорит Винни-Пух’."
+    - |
+         "‘Дедушка говорит: «Смейтесь-смейтесь», - говорит’."
+  examples_translation_english:
+    - |
+         "‘Well, say it the way you can’."
+    - |
+         "‘“It seems that I have lost weight, pull me out now”, — says Winnie-the-Pooh’."
+    - |
+         "‘Grandfather says: “Laugh, laugh”, — he says’."
+  examples_sources:
+    - |
+         '[Корпус: “Акпарс”, 29]' 
+    - |
+         '[Корпус: “Пересказ мультфильма о Винни-Пухе”, 79]' 
+    - |
+         '[Корпус: “Смешной случай”, 19]' 
+  morphology:
+    - V
+    - IMP
+    - 2
+    - PL
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - NA
+  comment: |
+      "См. антонимичную конструкцию 2."
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+  family:
+    - |
+      ""
+2:
+  name: "it / idä V"
+  formula_gloss_russian: "PROH-2SG / PROH-2PL V"
+  formula_gloss_english: ""
+  illustration: "iktə̈-län=ät i-t kelesə̈!"
+  illustration_gloss_russian: "никто-DAT=ADD PROH-2SG говорить"
+  illustration_gloss_english: "nobody-DAT=ADD PROH-2SG say"
+  illustration_translation_russian: "‘Никому не говори!’"
+  illustration_translation_english: "‘Don't tell a soul!’"
+  definitions:
+    - russian: |
+         "Конструкция выражает запрет выполнить некоторое действие. Этот запрет обращен к собеседнику."
+  examples:
+    - |
+         "onton'i i-t mägə̈rə̈ öl'cä-š läk-mə̈kə̈ man'-ə̑."
+    - |
+         "tə̈n' xuda-n i-t šaə̑š, jažo-n šaə̑š-Ø."
+    - |
+         "i-t altalə."
+  examples_glosses_russian:
+    - |
+         "Антонина PROH-2SG плакать улица-ILL выходить-CVB.POST говорить-AOR.3SG"
+    - |
+         "ты плохой-ADV PROH-2SG говорить хорошо-ADV говорить-IMP"
+    - |
+         "PROH-2SG обманывать"
+  examples_glosses_english:
+    - |
+         "Antonina PROH-2SG cry street-ILL go_out-CVB.POST say-AOR.3SG"
+    - |
+         "you bad-ADV PROH-2SG say good-ADV say-IMP"
+    - |
+         "PROH-2SG lie"
+  examples_translation_russian:
+    - |
+         "‘Не плачь, Антонина, - сказал, когда вышли на улицу’."
+    - |
+         "‘Ты плохо не говори, хорошо говори’."
+    - |
+         "‘Не ври’."
+  examples_translation_english:
+    - |
+         "‘Don't cry, Antonina’, he said, when they went outside."
+    - |
+         "‘Don't speak badly, speak well’."
+    - |
+         "‘Don't lie’."
+  examples_sources:
+    - |
+         '[Корпус: “Проводы в армию”, 5]' 
+    - |
+         '[Корпус: “Диалог (эксперимент) - 1”, 322]' 
+    - |
+         '[Корпус: “Диалог о прошлом”, 32]' 
+  morphology:
+    - V
+    - PROH
+    - 2
+    - SG
+    - PL
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Verb Predicate
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Verb
+    - Negation Marker
+  comment: |
+      "См. антонимичную конструкцию 1."
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+    - type: Prohibition
+      subtypes:
+        - type: Prohibitive
+  family:
+    - |
+      ""
+3:
+  name: "V-žə̑ / V-(ə̑)štə̑"
+  formula_gloss_russian: "V-JUSS.SG / V-JUSS.PL"
+  formula_gloss_english: ""
+  illustration: "kelesə̈-žə̈ ma-m tuma-ja."
+  illustration_gloss_russian: "говорить-JUSS.SG что-ACC думать-NPST.3SG"
+  illustration_gloss_english: "say-JUSS.SG what-ACC think-NPST.3SG"
+  illustration_translation_russian: "‘Пусть скажет, что думает’."
+  illustration_translation_english: "‘Let him say what he has in mind’."
+  definitions:
+    - russian: |
+         "Конструкция выражает побуждение выполнить некоторое действие. Это побуждение обращено к участнику, не участвующему в разговоре. Говорящий ожидает, что собеседник передаст участнику содержание побуждения. Конструкция также может выражать желание говорящего, чтобы осуществилась некоторая ситуация."
+  examples:
+    - |
+         "nə̈nə̈ jü-štə̈ šukə̑-rak və̈d-ə̈m."
+    - |
+         "izi-š ik-tä - ik-tä və̈c sant'im'etə̑r kod-šə tə̈-štə."
+    - |
+         "urok jə̈le-räk pə̈tə̈-žə̈!"
+  examples_glosses_russian:
+    - |
+         "они пить-JUSS.PL много-CMPR вода-ACC"
+    - |
+         "маленький-ADV один-INDEF2 один-INDEF2 пять сантиметр оставаться-JUSS.SG тот-IN"
+    - |
+         "урок скоро-CMPR заканчиваться-JUSS.SG"
+  examples_glosses_english:
+    - |
+         "they drink-JUSS.PL much-CMPR water-ACC"
+    - |
+         "small-ADV one-INDEF2 one-INDEF2 five centimeter stay-JUSS.SG that-IN"
+    - |
+         "lesson soon-CMPR finish-JUSS.SG"
+  examples_translation_russian:
+    - |
+         "‘Пусть они пьют больше воды’."
+    - |
+         "‘Немного примерно 5 см пускай остается там’."
+    - |
+         "‘Вот бы урок поскорее закончился!’"
+  examples_translation_english:
+    - |
+         "‘Let them drink more water’."
+    - |
+         "‘Let it be left a little, about about 5 cm’."
+    - |
+         "‘I wish the class would stop soon!’"
+  examples_sources:
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Корпус: “Диалог (эксперимент) - 2”, 213]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - V
+    - JUSS
+    - SG
+    - PL
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - NA
+  comment: |
+      "См. антонимичную конструкцию 4."
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Indirect
+    - type: Volition
+  family:
+    - |
+      ""
+4:
+  name: "ə̑nžə̑ V / ə̑nžə̑štə̑ V-ep"
+  formula_gloss_russian: "NEG.JUSS / NEG.JUSS-PL V-PL"
+  formula_gloss_english: ""
+  illustration: "tidə̈-m atä-ž-vlä-m ävä-ž-vlä-m ə̑nžə̑ šajə̑št."
+  illustration_gloss_russian: "это-ACC отец-POSS.3SG-PL-ACC мать-POSS.3SG-PL-ACC NEG.JUSS говорить"
+  illustration_gloss_english: "this-ACC father-POSS.3SG-PL-ACC mother-POSS.3SG-PL-ACC NEG.JUSS say"
+  illustration_translation_russian: "‘Пусть он не рассказывает об этом родителям’."
+  illustration_translation_english: "‘He should not tell this to his parents’."
+  definitions:
+    - russian: |
+         "Конструкция выражает запрет выполнить некоторое действие. Этот запрет обращен к участнику, не участвующему в разговоре. Говорящий ожидает, что собеседник передаст участнику содержание запрета. Конструкция также может выражать желание говорящего, чтобы некоторая ситуация не осуществилась."
+  examples:
+    - |
+         "ti budka körg-ə̈štə̈ maxan' xuda šülə̈š ulə̑, tə̈də̈ ə̈nde ə̑nžə̑ li!"
+    - |
+         "rod-et-š=ät ə̈nžə̈ li, pə̈tə̈-žə̈."
+  examples_glosses_russian:
+    - |
+         "этот будка внутренность-IN какой плохой дыхание имеется тот теперь NEG.JUSS становиться"
+    - |
+         "род-POSS.2SG-POSS.3SG=ADD JUSS.SG становиться кончаться-JUSS.SG"
+  examples_glosses_english:
+    - |
+         "this booth interior-IN which bad breath exist that now NEG.JUSS  become"
+    - |
+         "lineage-POSS.2SG-POSS.3SG=ADD JUSS.SG become end-JUSS.SG"
+  examples_translation_russian:
+    - |
+         "‘Какая бы злая сила или злой дух ни были в этой будке, пусть покинут ее навсегда’."
+    - |
+         "‘И пусть весь род твой исчезнет!’"
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘Whatever evil spirit is in this booth, let it not remain there’."
+    - |
+         "‘And let your lineage disappear (= not exist), let it come to an end’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Акцорин 1995: 32]' 
+    - |
+         '[Акцорин 1995: 181]' 
+  morphology:
+    - V
+    - NEG
+    - JUSS
+    - PL
+  syntactic_type_of_construction:
+    - Clause
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Verb Predicate
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Verb
+    - Negation Marker
+  comment: |
+      "См. антонимичную конструкцию 3."
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Indirect
+    - type: Prohibition
+      subtypes:
+        - type: Prohibitive
+    - type: Volition
+  family:
+    - |
+      ""
+5:
+  name: "ajda(t'e) V-na"
+  formula_gloss_russian: "айда(те) V-NPST.1PL"
+  formula_gloss_english: ""
+  illustration: "nə̈nə̈m ajda kə̈čäl kenä."
+  illustration_gloss_russian: "те-ACC айда искать-CVB идти-NPST.1PL"
+  illustration_gloss_english: "those-ACC let_us search-CVB go-NPST.1PL"
+  illustration_translation_russian: "‘Давай пойдем их искать’."
+  illustration_translation_english: "‘Let's go look for them’."
+  definitions:
+  examples:
+    - |
+         "ajda pə̑r-enä teve ti-škə̈."
+    - |
+         "“ajda, — man-eš, — to-kə̑-na ke-nä”."
+    - |
+         "mə̑gə̑ryč-ə̑m ə̈št-enä ajda."
+  examples_glosses_russian:
+    - |
+         "айда входить-NPST.1PL вот этот-ILL"
+    - |
+         "айда говорить-NPST.3SG дом-ILL2-POSS.1PL идти-NPST.1PL"
+    - |
+         "магарыч-ACC делать-NPST.1PL айда"
+  examples_glosses_english:
+    - |
+         "let_us come_in-NPST.1PL here_it_is this-ILL"
+    - |
+         "let_us say-NPST.3SG house-ILL2-POSS.1PL go-NPST.1PL"
+    - |
+         "magarych-ACC do-NPST.1PL let_us"
+  examples_translation_russian:
+    - |
+         "‘Давай зайдем вот сюда’."
+    - |
+         "‘Давай, — говорит, — пойдем ко мне домой’."
+    - |
+         "‘Давай сделаем магарыч’."
+  examples_translation_english:
+    - |
+         "‘Let's come in here’."
+    - |
+         "‘Let us, — he says, — go to my place’."
+    - |
+         "‘Let's make a magarych (festive meal)’."
+  examples_sources:
+    - |
+         '[Корпус: “Пересказ мультфильма "Песнь моря"”, 74]' 
+    - |
+         '[Корпус: “Армейская байка о водке”, 33]' 
+    - |
+         '[Корпус: “Диалог и рассказ о клюкве”, 33]' 
+  morphology:
+    - V
+    - NPST
+    - 1
+    - PL
+  syntactic_type_of_construction:
+    - Clause
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Discourse particle
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Particle
+    - NA
+  comment: |
+      "См. синонимичную конструкции 6 и 7"
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+  family:
+    - |
+      ""
+6:
+  name: "äldä V-na"
+  formula_gloss_russian: "HORT-2PL V-NPST.1PL"
+  formula_gloss_english: ""
+  illustration: "äldä kenä papa docə̑n prazn'ikeš."
+  illustration_gloss_russian: "HORT-2PL идти-NPST.1PL бабушка у-EL-FULL праздник-LAT"
+  illustration_gloss_english: "HORT-2PL go-NPST.1PL grandmother at-EL-FULL celebration-LAT"
+  illustration_translation_russian: "‘Давай к празднику от бабушки уйдем’."
+  illustration_translation_english: "‘Let's leave grandmother before the celebration’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - HORT
+    - 2
+    - PL
+    - V
+    - NPST
+    - 1
+  syntactic_type_of_construction:
+    - Clause
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Discourse particle
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Particle
+    - NA
+  comment: |
+      "См. синонимичную конструкции 5 и 7"
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+  family:
+    - |
+      ""
+7:
+  name: "ajda VP-Imp"
+  formula_gloss_russian: "айда V-IMP"
+  formula_gloss_english: ""
+  illustration: "ajda šajə̑š."
+  illustration_gloss_russian: "айда говорить-IMP"
+  illustration_gloss_english: "let_us say-IMP"
+  illustration_translation_russian: "‘Давай говори’."
+  illustration_translation_english: "‘Go ahead, speak’."
+  definitions:
+  examples:
+    - |
+         "ajda, ertə̈-Ø, ertə̈-Ø, šə̈c-Ø!"
+    - |
+         "ajda šə̈c-tä čaj jü-äš."
+    - |
+         "ajda eče ik-ta-ma-m näl-Ø."
+  examples_glosses_russian:
+    - |
+         "айда проходить-IMP проходить-IMP сидеть-IMP"
+    - |
+         "айда сидеть-IMP.2PL чай пить-INF"
+    - |
+         "айда еще один-INDEF1-что-ACC брать-IMP"
+  examples_glosses_english:
+    - |
+         "let_us come_in-IMP come_in-IMP sit-IMP"
+    - |
+         "let_us sit-IMP.2PL tea drink-INF"
+    - |
+         "let_us else one-INDEF1-what-ACC take-IMP"
+  examples_translation_russian:
+    - |
+         "‘Давай, проходи, проходи, садись!’"
+    - |
+         "‘Давайте садитесь чай пить’."
+    - |
+         "‘Давай, еще что-нибудь купи’."
+  examples_translation_english:
+    - |
+         "‘Go ahead, come in, come in, sit down!’"
+    - |
+         "‘Go ahead, sit down and have some tea’."
+    - |
+         "‘Go ahead, buy something else’."
+  examples_sources:
+    - |
+         '[Корпус: “Диалог и рассказ о клюкве”, 15]' 
+    - |
+         '[Корпус: “Диалог о жизни”, 39]' 
+    - |
+         '[Корпус: “Диалоги в магазине”, 15]' 
+  morphology:
+    - V
+    - IMP
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Discourse particle
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Particle
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+  family:
+    - |
+      ""
+8:
+  name: "ajda / äldä VP-Inf!"
+  formula_gloss_russian: "айда / HORT-2PL VP-INF"
+  formula_gloss_english: ""
+  illustration: "ajda gul'ajaš!"
+  illustration_gloss_russian: "айда гулять-INF"
+  illustration_gloss_english: "let_us walk-INF"
+  illustration_translation_russian: "‘Давай гулять!’"
+  illustration_translation_english: "‘Let's walk around’."
+  definitions:
+  examples:
+    - |
+         "ves kečə̈-n anž-em ol'eg uže sə̈gə̈r-ä ajda, man-eš, mad-aš."
+    - |
+         "ajda / äl-dä d'ežurnə̑j-vlä sedə̈rä-m mə̑šk-aš!"
+  examples_glosses_russian:
+    - |
+         "другой солнце-GEN смотреть-NPST.1SG Олег уже кричать-NPST.3SG айда говорить-NPST.3SG играть-INF"
+    - |
+         "айда / HORT-2PL дежурный-PL пол-ACC мыть-INF"
+  examples_glosses_english:
+    - |
+         "another sun-GEN look-NPST.1SG Oleg already shout-NPST.3SG let_us say-NPST.3SG play-INF"
+    - |
+         "let_us / HORT-2PL on_duty-PL floor-ACC wash-INF"
+  examples_translation_russian:
+    - |
+         "‘На другой день смотрю — Олег уже зовет — айда, говорит, играть’."
+    - |
+         "‘Айда, дежурные, помоем пол!’"
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘The next day I see that Oleg is calling — let's play, he says’."
+    - |
+         "‘Students on duty, let's clean the floor!’"
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Корпус: “Игра в "домики"”, 14]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - Inf
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Discourse particle
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Particle
+  comment: |
+      "См. синонимичные констукции 5 и 6"
+  references:
+    - |
+      
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Direct
+  family:
+    - |
+      ""
+9:
+  name: "VP-Imp=aj"
+  formula_gloss_russian: "VP-IMP=POL1"
+  formula_gloss_english: ""
+  illustration: "kn'igäm veremäeš puaj."
+  illustration_gloss_russian: "книга-ACC время-LAT давать-IMP=POL1"
+  illustration_gloss_english: "book-ACC time-LAT give-IMP=POL1"
+  illustration_translation_russian: "‘Одолжи мне книгу на время’."
+  illustration_translation_english: "‘Lend me the book for a while’."
+  definitions:
+  examples:
+    - |
+         "“t'ot'a-t, — man-am, — mə̈-läm äräkä-m näl-ə̈n pu-Ø=aj”."
+    - |
+         "mar-la šajə̑št-Ø=aj."
+    - |
+         "skumbr'i-m š-ə̈m näl, pu-Ø=aj ə̈nde skumbr'i-m."
+  examples_glosses_russian:
+    - |
+         "дед-POSS.2SG говорить-NPST.1SG я-DAT.POSS.1SG алкоголь-ACC брать-CVB давать-IMP=POL1"
+    - |
+         "мари-SIM говорить-IMP=POL1"
+    - |
+         "скумбрия-ACC NEG.AOR-1SG брать давать-IMP=POL1 теперь скумбрия-ACC"
+  examples_glosses_english:
+    - |
+         "grandfather-POSS.2SG say-NPST.1SG I-DAT.POSS.1SG alcohol-ACC take-CVB give-IMP=POL1"
+    - |
+         "Mari-SIM say-IMP=POL1"
+    - |
+         "scomber-ACC NEG.AOR-1SG take give-IMP=POL1 now scomber-ACC"
+  examples_translation_russian:
+    - |
+         "‘"Дед, — говорю, — мне купи выпить"’."
+    - |
+         "‘Говори по-марийски’."
+    - |
+         "‘Скумбрию не купила, дай теперь скумбрию’."
+  examples_translation_english:
+    - |
+         "‘"Old man, — I say, — buy me something to drink"’."
+    - |
+         "‘Speak Mari’."
+    - |
+         "‘I didn't buy scomber, give me a scomber now’."
+  examples_sources:
+    - |
+         '[Корпус: “Армейская байка о водке
+  ”, 21]' 
+    - |
+         '[Корпус: “Диалог о проблемах”, 237]' 
+    - |
+         '[Корпус: “Диалоги в магазине”, 26]' 
+  morphology:
+    - VP
+    - IMP
+    - POL1
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Discourse particle
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Particle
+  comment: |
+      "См. синонимичные констукции 10, 11 и 12"
+  references:
+    - |
+      
+  semantic_types:
+    - type: Request
+    - type: Routine
+      subtypes:
+        - type: Politeness marker
+  family:
+    - |
+      ""
+10:
+  name: "VP-ə̑ma-Imp"
+  formula_gloss_russian: "VP-POL2-IMP"
+  formula_gloss_english: ""
+  illustration: "ti pumaga-vlä-m mə̈-län-em kand-emä-dä."
+  illustration_gloss_russian: "этот бумага-PL-ACC я-DAT-POSS.1SG приносить-POL2-IMP.2PL"
+  illustration_gloss_english: "this paper-PL-ACC I-DAT-POSS.1SG bring-POL2-IMP.2PL"
+  illustration_translation_russian: "‘Принесите мне эти бумаги, пожалуйста’."
+  illustration_translation_english: "‘Bring me these papers, please’."
+  definitions:
+  examples:
+    - |
+         "koršok-an, man-ma-Ø ə̈n'e."
+    - |
+         "ti-škə̈-lä anž-emä-Ø!"
+    - |
+         "ik-ta-maxan' istor'i-m šajə̑št-Ø pu-emä-Ø."
+  examples_glosses_russian:
+    - |
+         "горшок-PROP говорить-POL2-IMP значит"
+    - |
+         "этот-ILL-SIM смотреть-POL2-IMP"
+    - |
+         "один-INDEF1-какой история-ACC говорить-CVB давать-POL2-IMP"
+  examples_glosses_english:
+    - |
+         "pot-PROP say-POL2-IMP then"
+    - |
+         "this-ILL-SIM look-POL2-IMP"
+    - |
+         "one-INDEF1-which story-ACC stay-CVB give-POL2-IMP"
+  examples_translation_russian:
+    - |
+         "‘Который с горшком, скажи тогда’."
+    - |
+         "‘Смотри сюда!’"
+    - |
+         "‘Расскажи какую-нибудь историю’."
+  examples_translation_english:
+    - |
+         "‘The one with a pot, say it then (about a boy)’."
+    - |
+         "‘Look here!’"
+    - |
+         "‘Tell us a story’."
+  examples_sources:
+    - |
+         '[Корпус: “Диалог (эксперимент) - 1”, 206]' 
+    - |
+         '[Корпус: “Диалог и рассказ о клюкве”, 66]' 
+    - |
+         '[Корпус: “Диалог и рассказ о клюкве”, 42]' 
+  morphology:
+    - VP
+    - POL2
+    - IMP
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Word-Formation
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - NA
+  comment: |
+      "См. синонимичные констукции 9, 11 и 12"
+  references:
+    - |
+      
+  semantic_types:
+    - type: Request
+    - type: Routine
+      subtypes:
+        - type: Politeness marker
+  family:
+    - |
+      ""
+11:
+  name: "VP-Imp=ok"
+  formula_gloss_russian: "VP-IMP=EMPH"
+  formula_gloss_english: ""
+  illustration: "kn'igävläm kabin'et jakte namal keäš palšok."
+  illustration_gloss_russian: "книга-PL-ACC кабинет до нести-CVB идти-INF помогать-IMP=EMPH"
+  illustration_gloss_english: "book-PL-ACC office to carry-CVB go-INF help-IMP=EMPH"
+  illustration_translation_russian: "‘Помоги-ка донести учебники до кабинета’."
+  illustration_translation_english: "‘Help me carry these books to the office’."
+  definitions:
+  examples:
+    - |
+         ""jar-a, — man-am, — näl-Ø=ok"."
+    - |
+         "ätə̈der-ə̈m mə̑š-∅=ok!"
+    - |
+         "pandə̑-m näl-eš=ät küer-ə̈škə̈ sev-äl-eš, "nad'a läk-Ø=ok", — man-eš."
+  examples_glosses_russian:
+    - |
+         "годиться-NPST.3SG говорить-NPST.1SG брать-IMP=EMPH"
+    - |
+         "посуда-ACC мыть-IMP=EMPH"
+    - |
+         "палка-ACC брать-NPST.3SG=ADD камень-ILL ударять-ATT-NPST.3SG Надя выходить-IMP=EMPH говорить-NPST.3SG"
+  examples_glosses_english:
+    - |
+         "fit-NPST.3SG say-NPST.1SG take-IMP=EMPH"
+    - |
+         "dish-ACC wash-IMP=EMPH"
+    - |
+         "stick-ACC take-NPST.3SG=ADD stone-ILL hit-ATT-NPST.3SG Nadya exit-IMP=EMPH say-NPST.3SG"
+  examples_translation_russian:
+    - |
+         "‘"Ладно, — говорю, — покупай"’."
+    - |
+         "‘Помой посуду!’"
+    - |
+         "‘Берёт палку и бьёт по камню, говорит: "Надя, выходи!"’."
+  examples_translation_english:
+    - |
+         "‘"Okay, — I say, — buy it"’."
+    - |
+         "‘Wash the dishes!’"
+    - |
+         "‘He takes a stick, hits a rock with it and says: "Nadya, come out!"’."
+  examples_sources:
+    - |
+         '[Корпус: “Армейская байка о водке”, 27]' 
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Корпус: “Двенадцать палочек”, 12]' 
+  morphology:
+    - VP
+    - IMP
+    - EMPH
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - Discourse particle
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Particle
+  comment: |
+      "См. синонимичные констукции 9, 10 и 12"
+  references:
+    - |
+      
+  semantic_types:
+    - type: Discourse structure
+      subtypes:
+        - type: Emphasis
+    - type: Request
+    - type: Routine
+      subtypes:
+        - type: Politeness marker
+  family:
+    - |
+      ""
+12:
+  name: "VP-Imp jä"
+  formula_gloss_russian: "VP-IMP CONTR"
+  formula_gloss_english: ""
+  illustration: "mə̈n'ə̈m irgodə̑m vaštaltə̑jä."
+  illustration_gloss_russian: "я-ACC завтрашний_день-ACC менять-IMP=CONTR"
+  illustration_gloss_english: "I-ACC tomorrow-ACC change-IMP=CONTR"
+  illustration_translation_russian: "‘Очень прошу, подмени меня завтра’."
+  illustration_translation_english: "‘Please, cover for me tomorrow’."
+  definitions:
+  examples:
+    - |
+         "ävi, mə̈-läm mad-aš ke-äš li-eš? — ke-∅=jä."
+    - |
+         "el'ena p'etrovna, ti pumaga-vlä-m mə̈-län-em kandə̑-da=jä."
+    - |
+         "ät'ä-ävä-län pačkata-n i-t popə̑=jä!"
+  examples_glosses_russian:
+    - |
+         "мама.KIN я-DAT.POSS.1SG играть-INF идти-INF становиться-NPST.3SG идти-IMP=CONTR"
+    - |
+         "Елена Петровна этот бумага-PL-ACC я-DAT-POSS.1SG приносить-IMP.2PL=CONTR"
+    - |
+         "отец-мать-DAT резкий-ADV PROH-2SG говорить=CONTR"
+  examples_glosses_english:
+    - |
+         "mother.KIN I-DAT.POSS.1SG play-INF go-INF become-NPST.3SG go-IMP=CONTR"
+    - |
+         "Elena Petrovna this paper-PL-ACC I-DAT-POSS.1SG bring-IMP.2PL=CONTR"
+    - |
+         "father-mother-DAT sharp-ADV PROH-2SG say=CONTR"
+  examples_translation_russian:
+    - |
+         "‘Мам, а можно я поиграть пойду? — Да иди уже’."
+    - |
+         "‘Елена Петровна, принесите мне эти бумаги, пожалуйста’."
+    - |
+         "‘Ну не груби же ты родителям!’"
+  examples_translation_english:
+    - |
+         "‘Mom, can I go playing? — Well, just go’."
+    - |
+         "‘Elena Petrovna, bring me these papers, please’."
+    - |
+         "‘Don't be rude with your parents!’"
+  examples_sources:
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - IMP
+    - CONTR
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - Discourse particle
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - Particle
+  comment: |
+      "См. синонимичные констукции 9, 10 и 11"
+  references:
+    - |
+      
+  semantic_types:
+    - type: Degree of intensity
+      subtypes:
+        - type: Booster
+    - type: Discourse structure
+      subtypes:
+        - type: Emphasis
+    - type: Request
+  family:
+    - |
+      ""
+13:
+  name: "VP-Imp - Cl"
+  formula_gloss_russian: "VP-IMP - CL"
+  formula_gloss_english: ""
+  illustration: "okn'am pačə̑n šu - kek pə̑ren keš."
+  illustration_gloss_russian: "окно-ACC открывать-CVB бросать-IMP - птица входить-CVB идти-AOR"
+  illustration_gloss_english: "window-ACC open-CVB throw-IMP bird come_in-CVB go-AOR"
+  illustration_translation_russian: "‘Открываешь окно - вдруг птица влетела’."
+  illustration_translation_english: "‘You open the window and suddenly a bird flies in’."
+  definitions:
+  examples:
+    - |
+         "vad-eš tol-ə̑n šagal-∅, ul'a-m pač-ə̑n koltə̑-∅: ik mükš=ät uke."
+    - |
+         "ikänä kožlanängə̈r-ə̈škə̈ ke-š-ə̈m. karem-eš val-en šagal'-∅-ə̑m. jə̈rväš anž-al-∅ koltə̑-∅ — cilä väre cever	 peled-ə̈š-vlä."
+  examples_glosses_russian:
+    - |
+         "вечер-LAT приходить-CVB вставать-IMP улей-ACС открывать-CVB посылать-IMP один пчела=ADD NEG.EX"
+    - |
+         "однажды Кожланангер-ILL идти-AOR-1SG овраг-LAT спускаться-CVB вставать-AOR-1SG	кругом смотреть-ATT-CVB посылать-IMP весь в_месте красивый цвести-NACT-PL"
+  examples_glosses_english:
+    - |
+         "evening-LAT come-CVB stand_up-IMP hive-ACС open-CVB send-IMP one bee=ADD NEG.EX"
+    - |
+         "once Kožlananger-ILL go-AOR-1SG ravine-LAT go_down-CVB stand_up-AOR-1SG around look-ATT-CVB send-IMP all in_place beautiful blossom-NACT-PL"
+  examples_translation_russian:
+    - |
+         "‘Вечером приходишь, открываешь улей: нет ни одной пчелы’."
+    - |
+         "‘Однажды пошла в Кожланангер. Спустилась в овраг. Смотрю вокруг: повсюду красивые цветы’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘In the evening you come, open the a hive and there is not a single bee’."
+    - |
+         "‘Once I went to Kožlananger. Went down to the ravine. I look around and there are beautiful flowers everywhere’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Корпус: “Пчеловодческие байки”, 42]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - IMP
+    - CL
+  syntactic_type_of_construction:
+    - Biclausal construction
+  syntactic_function_of_anchor:
+    - NA
+  syntactic_structure_of_anchor:
+    - NA
+  part_of_speech_of_anchor:
+    - NA
+  references:
+    - |
+      
+  semantic_types:
+    - type: Attitude
+      subtypes:
+        - type: Emotional attitude
+    - type: Mirative
+  family:
+    - |
+      ""
+14:
+  name: "VP-Npst ližə̈"
+  formula_gloss_russian: "VP-NPST становиться-JUSS.SG"
+  formula_gloss_english: ""
+  illustration: "mə̈n' kol-em li-žə̈, mə̈n' altal-em gə̈n'."
+  illustration_gloss_russian: "я умирать-NPST.1SG становиться-JUSS.SG я обманывать-NPST.1SG если"
+  illustration_gloss_english: "I die-NPST.1SG become-JUSS.SG I lie-NPST.1SG if"
+  illustration_translation_russian: "‘Чтоб я сдох, если говорю неправду’."
+  illustration_translation_english: "‘I'd die if I am lying’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - VP
+    - NPST
+    - JUSS
+    - SG
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Volition
+  family:
+    - |
+      ""
+15:
+  name: "pus't' VP-Npst"
+  formula_gloss_russian: "пусть VP-NPST"
+  formula_gloss_english: ""
+  illustration: "pus't' tə̈n'-ə̈n cilä tumajə̑-maš-et li-ält-eš."
+  illustration_gloss_russian: "пусть ты-GEN весь думать-NMLZ2-POSS.2SG становиться-MED-NPST.3SG"
+  illustration_gloss_english: "let you-GEN all think-NMLZ2-POSS.2SG become-MED-NPST.3SG"
+  illustration_translation_russian: "‘Пусть все твои мечты сбудутся’."
+  illustration_translation_english: "‘May all your dreams come true’."
+  definitions:
+  examples:
+    - |
+         "jesl'i kə̈tə̈k-ə̈n keles-äš gə̈n', mə̈n'ə̈ man tumaj-en-äm pust' pə̈täri škol-vlä-štə̈ učit'el'-vlä-m naznač-at, štobə̑ učit'el'-vlä tə̑men'-äš tə̈ngäl-mə̈ god-ə̑m uže cilä-n škol-vlä-štə̈ li-štə̈, a mə̈n'ə̈ vara ke-m — mə̈-läm vär uke."
+  examples_glosses_russian:
+    - |
+         "если короткий-ADV говорить-INF если я почему думать-PRET-1SG пусть сначала школа-PL-IN учитель-PL-ACC назначить-NPST.3PL чтобы учитель-PL учиться-INF начинать-PTCP.PASS/NMLZ время-ACC уже весь-ADV школа-PL-IN становиться-JUSS.PL а я потом идти-NPST.1SG я-DAT.POSS.1SG место NEG.EX"
+  examples_glosses_english:
+    - |
+         "if short-ADV say-INF if I why think-PRET-1SG let_it initially school-PL-IN teacher-PL-ACC appoint-NPST.3PL for teacher-PL study-INF start-PTCP.PASS/NMLZ time-ACC alreadt all-ADV school-PL-IN become-JUSS.PL and I then go-NPST.1SG I-DAT.POSS.1SG placea NEG.EX"
+  examples_translation_russian:
+    - |
+         "‘Если сказать коротко, я думал, пусть сначала учителей назначат в школах, чтобы учителя к началу учебного года уже все были в школах, а я потом пойду - уже места для меня нет’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘In short, I thought, let them appoint teachers at schools, so that by the start of the academic year all the teachers would be at schools, and I'll go after that, there is no place for me now’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Корпус: “Химия и жизнь”, 66]' 
+  morphology:
+    - VP
+    - NPST
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Routine
+      subtypes:
+        - type: Kind wishes
+    - type: Volition
+  family:
+    - |
+      ""
+16:
+  name: "VP-Pret ə̑lgecə̈"
+  formula_gloss_russian: "VP-PRET COND"
+  formula_gloss_english: ""
+  illustration: "mə̈n' inst'itut-ə̑š  pə̑r-en-äm ə̑lgecə̈!"
+  illustration_gloss_russian: "я институт-ILL входить-PRET-1SG COND"
+  illustration_gloss_english: "I college-ILL come_in-PRET-1SG COND"
+  illustration_translation_russian: "‘Вот бы мне поступить в институт!’"
+  illustration_translation_english: "‘I wish I entered a college’."
+  definitions:
+  examples:
+    - |
+         "mašinä man-ə̑n-at ə̑lgecə̈, päl-em ə̑lə̑n srazə̑."
+  examples_glosses_russian:
+    - |
+         "машина говорить-PRET-2SG COND знать-NPST.1SG RETR2 сразу"
+  examples_glosses_english:
+    - |
+         "car say-PRET-2SG COND know-NPST.1SG RETR2 immediately"
+  examples_translation_russian:
+    - |
+         "‘Если бы сказала, на машине, я бы узнал сразу’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘If she said "by car", I would know immediately’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Корпус: “Игра в шляпу-2
+  ”, 142]' 
+  morphology:
+    - VP
+    - PRET
+    - COND
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Volition
+  family:
+    - |
+      ""
+17:
+  name: "VP-šaš"
+  formula_gloss_russian: "VP-OPT"
+  formula_gloss_english: ""
+  illustration: "jur cär-nə̈-šäš!"
+  illustration_gloss_russian: "дождь останавливать-DETR2-OPT"
+  illustration_gloss_english: "rain stop-DETR2-OPT"
+  illustration_translation_russian: "‘Хоть бы дождь перестал!’"
+  illustration_translation_english: "‘If only the rain stopped’."
+  definitions:
+  examples:
+    - |
+         "plat'ə̑-m ə̑rgə̑-šaš, no mə̈n' a-m mə̑štə̑."
+  examples_glosses_russian:
+    - |
+         "платье-ACC шить-OPT но я NEG.NPST-1SG уметь"
+  examples_glosses_english:
+    - |
+         "dress-ACC sew-OPT but I NEG.NPST-1SG be_able"
+  examples_translation_russian:
+    - |
+         "‘Сшить бы платье, но я не умею (шить)’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘It would be great to make a dress, but I don't know how’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - OPT
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Volition
+  family:
+    - |
+      ""
+18:
+  name: "VP-šaš ə̑l'ə̑ / ə̑lnežə̈"
+  formula_gloss_russian: "VP-OPT RETR1 / ASSERT"
+  formula_gloss_english: ""
+  illustration: "vas'a mad-ə̑n näl-šäš ə̑l'ə̑!"
+  illustration_gloss_russian: "Вася играть-CVB брать-OPT RETR1"
+  illustration_gloss_english: "Vasja play-CVB take-OPT RETR1"
+  illustration_translation_russian: "‘Вот бы Вася выиграл!’"
+  illustration_translation_english: "‘I wish Vasya won’."
+  definitions:
+  examples:
+    - |
+         "irgod-ə̑m xala-š ke-šäš ə̑l'ə̑ / ə̑lnežə̈."
+  examples_glosses_russian:
+    - |
+         "завтрашний_день-ACC город-ILL идти-OPT RETR1 ASSERT"
+  examples_glosses_english:
+    - |
+         "tomorrow-ACC city-ILL go-OPT RETR1"
+  examples_translation_russian:
+    - |
+         "‘Завтра съездить бы в город!’"
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘It would be great to go to the city tomorrow’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - OPT
+    - RETR1
+    - ASSERT
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Future
+    - type: Volition
+  family:
+    - |
+      ""
+19:
+  name: "VP-žə̑ ə̑l'ə̑ / ə̑lnežə̈"
+  formula_gloss_russian: "VP-JUSS.SG RETR1 / ASSERT"
+  formula_gloss_english: ""
+  illustration: "irgod-ə̑m jur li-žə̈ ə̑lnežə̈!"
+  illustration_gloss_russian: "завтрашний_день-ACC дождь становиться-JUSS.SG ASSERT"
+  illustration_gloss_english: "tomorrow-ACC rain become-JUSS.SG ASSERT"
+  illustration_translation_russian: "‘Был бы завтра дождь!’"
+  illustration_translation_english: "‘I wish it rained tomorrow’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - VP
+    - JUSS
+    - SG
+    - RETR1
+    - ASSERT
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Future
+    - type: Volition
+  family:
+    - |
+      ""
+20:
+  name: "VP-šaš ə̑l'ə̑ / ə̑lə̑n"
+  formula_gloss_russian: "VP-OPT RETR1 / RETR2"
+  formula_gloss_english: ""
+  illustration: "tengečə̈ mə̈n' mad-ə̑n näl-šäš ə̑lə̑n, tə̈n' agə̑l!"
+  illustration_gloss_russian: "вчера я играть-CVB брать-OPT RETR2 ты NEG"
+  illustration_gloss_english: "yesterday I play-CVB take-OPT RETR2 you NEG"
+  illustration_translation_russian: "‘Вот бы я вчера выиграл, а не ты!’"
+  illustration_translation_english: "‘I wish I had won yesterday, not you’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - VP
+    - OPT
+    - RETR1
+    - RETR2
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Past
+    - type: Volition
+  family:
+    - |
+      ""
+21:
+  name: "VP-žə̑ ə̑l'ə̑ / ə̑lə̑n"
+  formula_gloss_russian: "VP-JUSS.SG RETR1 / RETR2"
+  formula_gloss_english: ""
+  illustration: "tengečə̈ jur li-žə̈ ə̑l'ə̑!"
+  illustration_gloss_russian: "вчера дождь становиться-JUSS.SG RETR1"
+  illustration_gloss_english: "yesterday rain become-JUSS.SG RETR1"
+  illustration_translation_russian: "‘Вчера был бы дождь!’"
+  illustration_translation_english: "‘I wish it had rained yesterday’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - VP
+    - JUSS
+    - SG
+    - RETR1
+    - RETR2
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Past
+    - type: Volition
+  family:
+    - |
+      ""
+22:
+  name: "VP-šaš"
+  formula_gloss_russian: "VP-OPT"
+  formula_gloss_english: ""
+  illustration: "lapka-š ke-šäš."
+  illustration_gloss_russian: "магазин-ILL идти-OPT"
+  illustration_gloss_english: "shop-ILL go-OPT"
+  illustration_translation_russian: "‘Пойду-ка я в магазин’."
+  illustration_translation_english: "‘Why don't I go to the shop’."
+  definitions:
+  examples:
+    - |
+         "ke-n tol-šaš kuz-ə̑kt-al-aš."
+    - |
+         "ke-n vac-šaš!"
+    - |
+         "jar-a, inžen'er-eš tə̑men'-šäš."
+  examples_glosses_russian:
+    - |
+         "идти-CVB приходить-OPT подниматься-CAUS.DIST-ATT-INF"
+    - |
+         "идти-CVB ложиться-OPT"
+    - |
+         "годиться-NPST.3SG инженер-LAT учиться-OPT"
+  examples_glosses_english:
+    - |
+         "go-CVB come-OPT lift-CAUS.DIST-ATT-INF"
+    - |
+         "go-CVB lie-OPT"
+    - |
+         "fit-NPST.3SG engineer-LAT study-OPT"
+  examples_translation_russian:
+    - |
+         "‘Схожу-ка подниму-ка’."
+    - |
+         "‘Упаду-ка!’"
+    - |
+         "‘Ладно, буду учиться на инженера’."
+  examples_translation_english:
+    - |
+         "‘Why don't I go and left it’."
+    - |
+         "‘Why don't I fall down? (intentionally)’."
+    - |
+         "‘Well, I'm studying engineering then’."
+  examples_sources:
+    - |
+         '[Корпус: “Прялка”, 38]' 
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - OPT
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      См. Zakirova A. The Hill Mari -šaš: speaker's control and its implications. Talk at the 14th Conference on Typology and Grammar for Young Scholars, Saint Petersburg, 23–25 November 2017.
+  semantic_types:
+    - type: Volition
+      subtypes:
+        - type: Intention
+  family:
+    - |
+      ""
+23:
+  name: "VP-šaš?"
+  formula_gloss_russian: "VP-OPT"
+  formula_gloss_english: ""
+  illustration: "vas'a sravač-šə̑-m jam-d-en, ma-m	ə̈štə̈-šäš?"
+  illustration_gloss_russian: "Вася ключ-POSS.3SG-ACC пропадать-CAUS-PRET что-ACC делать-OPT"
+  illustration_gloss_english: "Vasja key-POSS.3SG-ACC disappear-CAUS-PRET what-ACC do-OPT"
+  illustration_translation_russian: "‘Вася потерял свой ключ, что мне делать?’"
+  illustration_translation_english: "‘Vasja has lost his key, what should I do?’"
+  definitions:
+  examples:
+    - |
+         "a kə̑ce ə̈n'e man-šaš?"
+    - |
+         "kə̑ce väl kə̈č-en näl-šäš, da?"
+    - |
+         "ma-m ti läškä-m tak-eš kodə̑-šaš ma-m ti oren-ə̈m tak-eš kodə̑-šaš."
+  examples_glosses_russian:
+    - |
+         "а как значит говорить-OPT"
+    - |
+         "как QUEST просить-CVB брать-OPT да"
+    - |
+         "что-ACC этот лапша-ACC так-LAT оставлять-OPT что-ACC этот пахта-ACC так-LAT оставлять-OPT"
+  examples_glosses_english:
+    - |
+         "and how then say-OPT"
+    - |
+         "how QUEST ask-CVB take-OPT yes"
+    - |
+         "what-ACC this noodles-ACC so-LAT leave-OPT what-ACC this butternilk-ACC so-LAT leave-OPT"
+  examples_translation_russian:
+    - |
+         "‘Тогда как сказать?’"
+    - |
+         "‘Как выпросить, да?’"
+    - |
+         "‘Что эту лапшу зря оставлять, что пахту зря оставлять?’"
+  examples_translation_english:
+    - |
+         "‘So how to say it then?’"
+    - |
+         "‘How to ask, yeah?’"
+    - |
+         "‘What, to leave noodles like this for nothing? To leave buttermilk like this for nothing?’"
+  examples_sources:
+    - |
+         '[Корпус: “Диалог (эксперимент) - 1”, 113]' 
+    - |
+         '[Корпус: “Диалог о проблемах”, 174]' 
+    - |
+         '[Корпус: “Луга”, 15]' 
+  morphology:
+    - VP
+    - OPT
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      См. Zakirova A. The Hill Mari -šaš: speaker's control and its implications. Talk at the 14th Conference on Typology and Grammar for Young Scholars, Saint Petersburg, 23–25 November 2017.
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Necessity
+          subtypes:
+            - type: External
+    - type: Source of opinion
+      subtypes:
+        - type: Asking for opinion
+  family:
+    - |
+      ""
+24:
+  name: "VP-šaš"
+  formula_gloss_russian: "VP-OPT"
+  formula_gloss_english: ""
+  illustration: "urok-ə̑m jažo-rak-ə̑n ə̈štə̈-šäš."
+  illustration_gloss_russian: "урок-ACC хороший-CMPR-FULL делать-OPT"
+  illustration_gloss_english: "lesson-ACC good-CMPR-FULL do-OPT"
+  illustration_translation_russian: "‘Тебе стоит получше готовить уроки’."
+  illustration_translation_english: "‘You should do your homework better’."
+  definitions:
+  examples:
+    - |
+         "ə̈škə̈-län-žə̈ kačk-aš šol-tə̑-šaš."
+    - |
+         "ma-m šə̈nz-et, kn'igä-m lə̑d-šaš."
+  examples_glosses_russian:
+    - |
+         "REFL-DAT-POSS.3SG есть-INF вариться-CAUS-OPT"
+    - |
+         "что-ACC сидеть-NPST.2SG книга-ACC читать-OPT"
+  examples_glosses_english:
+    - |
+         "REFL-DAT-POSS.3SG eat-INF boil-CAUS-OPT"
+    - |
+         "what-ACC sit-NPST.2SG book-ACC read-OPT"
+  examples_translation_russian:
+    - |
+         "‘Приготовил бы себе еды’."
+    - |
+         "‘Чего сидишь, хоть бы книгу почитал’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘Why don't he make himself a meal?’"
+    - |
+         "‘Why are you just sittng, read a book at least’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - OPT
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      См. Zakirova A. Person constraint in modals: the case of the Hill Mari -šaš. Talk at the 51st Annual Meeting of the Societas Linguistica Europaea, Tallinn, 29 August–1 September 2018.
+  semantic_types:
+    - type: Causation
+      subtypes:
+        - type: Indirect
+  family:
+    - |
+      ""
+25:
+  name: "NP-Nom VP-Cvb kerdäš"
+  formula_gloss_russian: "NP-NOM VP-CVB мочь"
+  formula_gloss_english: ""
+  illustration: "mə̈n' tə̈-län-et palš-en kerd-äm."
+  illustration_gloss_russian: "я ты-DAT-POSS.2SG помогать-CVB мочь-NPST.1SG"
+  illustration_gloss_english: "I you-DAT-POSS.2SG help-CVB can-NPST.1SG"
+  illustration_translation_russian: "‘Я могу тебе помочь’."
+  illustration_translation_english: "‘I can help you’."
+  definitions:
+  examples:
+    - |
+         "složnə̑j saxə̑r ... saxə̑r-ə̑m d'iab'et'ik-vlä usvajivə̑j-en a-k kert-ep, insul'in-ə̑štə̑
+   čə̈də̈."
+    - |
+         "ti-škə̈ ik-tä=t pə̑r-en a-k kert-ep."
+    - |
+         "möskä-vlä kə̈zə̈t=ät ə̈l-en kerd-ə̈t tə̈štäken."
+  examples_glosses_russian:
+    - |
+         "сложный сахар сахар-ACC диабетик-PL усваивать-CVB NEG.NPST-3 мочь-3PL инсулин-POSS.3PL мало"
+    - |
+         "этот-ILL один-INDEF2=ADD входить-CVB NEG.NPST-3 мочь-3PL"
+    - |
+         "медведь-PL сейчас=ADD жить-CVB мочь-NPST.3PL там"
+  examples_glosses_english:
+    - |
+         "complex sugar sugar-ACC diabetic-PL absorb-CVB NEG.NPST-3 can-3PL insulin-POSS.3PL little"
+    - |
+         "this-ILL one-INDEF2=ADD come_in-CVB NEG.NPST-3 can-3PL"
+    - |
+         "bear-PL now=ADD live-CVB can-NPST.3PL there"
+  examples_translation_russian:
+    - |
+         "‘Сложные сахара... сахар диабетики не могут усваивать, мало инсулина’."
+    - |
+         "‘Сюда никто не может заходить’."
+    - |
+         "‘Медведи и по сей день могут там жить’."
+  examples_translation_english:
+    - |
+         "‘Compound sugars ... people with diabetes can't metabolise sugar, too little insulin’."
+    - |
+         "‘Nobody can come in here’."
+    - |
+         "‘Bears might still live there’."
+  examples_sources:
+    - |
+         '[Корпус: “Зимовье пчел
+  ”, 41]' 
+    - |
+         '[Корпус: “Игра в классики
+  ”, 23]' 
+    - |
+         '[Корпус: “История и лингвистика
+  ”, 123]' 
+  morphology:
+    - NP
+    - NOM
+    - VP
+    - CVB
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: Low degree of certainty
+    - type: Root modality
+      subtypes:
+        - type: Possibility
+        - type: Permission
+  family:
+    - |
+      ""
+26:
+  name: "NP-Nom VP-Cvb mə̑štaš"
+  formula_gloss_russian: "NP-NOM VP-CVB уметь"
+  formula_gloss_english: ""
+  illustration: "tə̈n’ jažo-n rovotaj-en mə̑št-et."
+  illustration_gloss_russian: "ты хороший-ADV работать-CVB уметь-NPST.2SG"
+  illustration_gloss_english: "you good-ADV work-CVB be_able-NPST.2SG"
+  illustration_translation_russian: "‘Ты хорошо умеешь работать’."
+  illustration_translation_english: "‘You can work well’."
+  definitions:
+  examples:
+    - |
+         "mə̈n' kə̑rgə̑ž-tal-Ø-žə̑ jažo-n mə̑št-em ə̑l'ə."
+    - |
+         "mə̈n'ə̈ mə̑r-en-žə̈ vot a-m mə̑štə̑."
+    - |
+         "vot ti pi ə̈nde ti-škə̈ tol-ə̑n mə̑št-en."
+  examples_glosses_russian:
+    - |
+         "я бежать-ATT-CVB-POSS.3SG хороший-ADV уметь-NPST.1SG RETR1"
+    - |
+         "я петь-CVB-POSS.3SG вот NEG.NPST-1SG уметь"
+    - |
+         "вот этот собака теперь этот-ILL приходить-CVB уметь-PRET"
+  examples_glosses_english:
+    - |
+         "I run-ATT-CVB-POSS.3SG good-ADV be_able-NPST.1SG RETR2"
+    - |
+         "I sing-CVB-POSS.3SG here_it_is NEG.NPST-1SG be_able"
+    - |
+         "here_it_is this dog now this-ILL come_in-CVB be_able-PRET"
+  examples_translation_russian:
+    - |
+         "‘Я хорошо бегать умел’."
+    - |
+         "‘Я петь вот [сама] не умею’."
+    - |
+         "‘Вот эта собака нашла сюда дорогу’."
+  examples_translation_english:
+    - |
+         "‘I could run well back then’."
+    - |
+         "‘As for me, I can't sing’."
+    - |
+         "‘This exact dog found the way here’."
+  examples_sources:
+    - |
+         '[Корпус: “Армейская байка о водке”, 51]' 
+    - |
+         '[Корпус: “Книги брата и песни”, 58]' 
+    - |
+         '[Корпус: “Пересказ мультфильма "Песнь моря"”, 48]' 
+  morphology:
+    - NP
+    - NOM
+    - VP
+    - CVB
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Possibility
+  family:
+    - |
+      ""
+27:
+  name: "NP-Nom VP-Cvb kerdäš-Aor/kerdäš-Pret/mə̑štaš-Aor"
+  formula_gloss_russian: "NP-NOM VP-CVB мочь-AOR/мочь-PRET/уметь-AOR"
+  formula_gloss_english: ""
+  illustration: "mə̈n' amasa-m pač-ə̑n mə̑štə̑-š-ə̑m."
+  illustration_gloss_russian: "я дверь-ACC открыть-CVB уметь-AOR-1SG"
+  illustration_gloss_english: "I door-ACC open-CVB be_able-AOR-1SG"
+  illustration_translation_russian: "‘Я сумел открыть дверь’."
+  illustration_translation_english: "‘I managed to open the door’."
+  definitions:
+  examples:
+    - |
+         "n'i-gə̑ce=ät mə̈-län-em keräl vär-ə̈m toma-m mo-n kert-tel-am."
+    - |
+         "vara török lačok kə̑dal-ə̑št-Ø š-ə̈m kert, tə̈štäken v opš'em šukə̑ tör-l-en-äm v opš'em."
+    - |
+         "möskä palšə̑-š, palš-en ə̈š kert."
+  examples_glosses_russian:
+    - |
+         "NEG-как=ADD я-DAT-POSS.1SG нужный место-ACC дом-ACC находить-CVB мочь-NEG.PRET-1SG"
+    - |
+         "потом сразу истина бежать-DENOM2-CVB NEG.AOR-1SG мочь там в общем много прямой-DENOM1-PRET-1SG в общем"
+    - |
+         "медведь помогать-AOR помогать-CVB NEG.AOR.3 мочь"
+  examples_glosses_english:
+    - |
+         "NEG-how=ADD I-DAT-POSS.1SG required place-ACC house-ACC find-CVB can-NEG.PRET-1SG"
+    - |
+         "then straightaway truth run-DENOM2-CVB NEG.AOR-1SG can there in general much direct-DENOM1-PRET-1SG in general"
+    - |
+         "bear help-AOR help-CVB NEG.AOR.3 can"
+  examples_translation_russian:
+    - |
+         "‘Никак мне нужное место, дом... найти не смогла’."
+    - |
+         "‘Потом, правда, не смог сразу ездить, там в общем долго ремонтировал’."
+    - |
+         "‘Медведь помогал, помочь не смог’."
+  examples_translation_english:
+    - |
+         "‘I didn't manage to find the place, the house I needed’."
+    - |
+         "‘Then, honestly, I didn't manage to start driving right away, in short, I repaired [the motorbike] for a long time’."
+    - |
+         "‘The bear tried to help, but didn't manage to’."
+  examples_sources:
+    - |
+         '[Корпус: “Кошачий праздник”, 6]' 
+    - |
+         '[Корпус: “Мотоцикл "Минск"”, 50]' 
+    - |
+         '[Корпус: “Сказка о зайце”, 24]' 
+  morphology:
+    - NP
+    - NOM
+    - VP
+    - CVB
+    - AOR
+    - PRET
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Actuality
+  family:
+    - |
+      ""
+28:
+  name: "NP-Dat VP-Inf jara"
+  formula_gloss_russian: "NP-DAT VP-INF годиться-NPST.3SG"
+  formula_gloss_english: ""
+  illustration: "mə̈-län-em sotə̑gečə̈-n kašt-aš jar-a."
+  illustration_gloss_russian: "я-DAT-POSS.1SG день-GEN ходить-INF годиться-NPST.3SG"
+  illustration_gloss_english: "I-DAT-POSS.1SG day-GEN walk-INF fit-NPST.3SG"
+  illustration_translation_russian: "‘Мне можно гулять днем’."
+  illustration_translation_english: "‘I am allowed to walk during the day’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - NP
+    - DAT
+    - VP
+    - INF
+    - NPST
+    - 3
+    - SG
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Permission
+  family:
+    - |
+      ""
+29:
+  name: "NP-Dat VP-Inf lieš"
+  formula_gloss_russian: "NP-DAT VP-INF становиться-NPST.3SG"
+  formula_gloss_english: ""
+  illustration: "mə̈-läm vad-eš kän-ält-äš li-eš."
+  illustration_gloss_russian: "я-DAT.POSS.1SG вечер-LAT отдыхать-PUN-INF становиться-NPST.3SG"
+  illustration_gloss_english: "I-DAT.POSS.1SG evening-LAT relax-PUN-INF become-NPST.3SG"
+  illustration_translation_russian: "‘Мне можно вечером отдохнуть’."
+  illustration_translation_english: "‘I can relax in the evening’."
+  definitions:
+  examples:
+    - |
+         "jesl'i tə̈ jə̑dal-ə̑m xvat'-a kid-ə̈škə̈-žə̈, to kak budtə̑ tə̈də̈  texen'-ə̈ ma ulə̑ tə̈də̈-län texen' uslov'ij ulə̑ ves-ə̈-vlä-m=ät pə̑r-t-aš li-eš vara cilä-n-ə̈štə̈-m, kü-vlä-m vyšybaj-en lə̑kt-ə̑n-ə̑t gə̈n'=ät, tə̈də̈-m pə̑r-t-aš li-eš."
+    - |
+         "vara török val-en cerkə̈-m už-aš li-eš."
+    - |
+         "xala-štə̑ vele oksa-m rovotaj-aš šukə̑-rak-ə̑m li-eš."
+  examples_glosses_russian:
+    - |
+         "если тот лапоть-ACC хватать-NPST.3SG рука-ILL-POSS.3SG то как будто он такой-FULL что имеется он-DAT такой условие имеется другой-FULL-PL-ACC=ADD входить-CAUS-INF становиться-NPST.3SG потом весь-FULL-POSS.3PL-ACC кто-PL-ACC вышибать-CVB извлекать-PRET-3PL если=ADD он-ACC входить-CAUS-INF становиться-NPST.3SG"
+    - |
+         "потом сразу спускаться-CVB церковь-ACC видеть-INF становиться-NPST.3SG"
+    - |
+         "город-IN только деньги-ACC работать-INF много-CMPR-ACC становиться-NPST.3SG"
+  examples_glosses_english:
+    - |
+         "if that bast_shoe-ACC grab-NPST.3SG hand-ILL-POSS.3SG that as like he such-FULL what there_is he-DAT such condition there_is other-FULL-PL-ACC=ADD come_in-CAUS-INF become-NPST.3SG then entire-FULL-POSS.3PL-ACC who-PL-ACC kick_out-CVB extract-PRET-3PL if=ADD he-ACC come_in-CAUS-INF become-NPST.3SG"
+    - |
+         "then immediately descend-CVB church-ACC see-INF become-NPST.3SG"
+    - |
+         "city-IN only money-ACC work-INF much-CMPR-ACC become-NPST.3SG"
+  examples_translation_russian:
+    - |
+         "‘Если этот лапоть схватит в руки, то как будто это такое есть для этого, такое условие есть – других пускать можно, всех, кого пусть и вышибли, их пускать можно’."
+    - |
+         "‘Потом, идя прямо, можно увидеть церковь’."
+    - |
+         "‘Только в городе можно заработать больше денег’."
+  examples_translation_english:
+    - |
+         "‘If one catches this bast shoe with his hands, then it's like there is such a condition - it is allowed to let other players in, even those ones who have been kicked out, it is allowed to let them in’."
+    - |
+         "‘Then, going straight, one can see a church’."
+    - |
+         "‘It is possible to make more money only in the city’."
+  examples_sources:
+    - |
+         '[Корпус: “Игры-2”, 34]' 
+    - |
+         '[Корпус: “Дорога до церкви и в Кожланангер”, 6]' 
+    - |
+         '[Корпус: “Низкая трава”, 38]' 
+  morphology:
+    - NP
+    - DAT
+    - VP
+    - INF
+    - NPST
+    - 3
+    - SG
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Possibility
+        - type: Permission
+  family:
+    - |
+      ""
+30:
+  name: "NP-Dat VP-Inf liäš-Aor/liäš-Pret"
+  formula_gloss_russian: "NP-DAT VP-INF становиться-AOR/становиться-PRET"
+  formula_gloss_english: ""
+  illustration: "jə̈rän-ə̈štə̈ rovotaj-aš ə̈š li."
+  illustration_gloss_russian: "грядка-IN работать-INF NEG.AOR.3 становиться"
+  illustration_gloss_english: "garden_bed-IN work-INF NEG.AOR.3 become"
+  illustration_translation_russian: "‘На грядке не удалось поработать’."
+  illustration_translation_english: "‘I did not manage to work in the garden’."
+  definitions:
+  examples:
+    - |
+         "pušängə̈ vuj-ə̑škə̑ kuz-aš cac-ə̑š, kuz-aš ə̈š li."
+  examples_glosses_russian:
+    - |
+         "дерево голова-ILL подниматься-INF стараться-AOR подниматься-INF NEG.AOR.3 становиться"
+  examples_glosses_english:
+    - |
+         "tree head-ILL go_up-INF try-AOR go_up-INF NEG.AOR.3 become"
+  examples_translation_russian:
+    - |
+         "‘Попытался залезть на верхушку дерева, залезть не получилось’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘[He] tried to climb the tree, but [he] didn't manage to do that’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Корпус: “Пересказ мультфильма "Жил-был пёс"”, 17]' 
+  morphology:
+    - NP
+    - DAT
+    - VP
+    - INF
+    - AOR
+    - PRET
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Actuality
+  family:
+    - |
+      ""
+31:
+  name: "NP-Dat VP-mə̑la"
+  formula_gloss_russian: "NP-DAT VP-DEB"
+  formula_gloss_english: ""
+  illustration: "karem tə̈r mə̑č-kə̑ ke-mə̈lä väkš do-kə̑-žə̑."
+  illustration_gloss_russian: "овраг край конец-ILL2 идти-DEB мельница у-ILL2-POSS.3SG"
+  illustration_gloss_english: "ravine edge end-ILL2 go-DEB mill at-ILL2-POSS.3SG"
+  illustration_translation_russian: "‘К мельнице нужно ехать вдоль обрыва’."
+  illustration_translation_english: "‘To reach the mill one must go along the ravine edge’."
+  definitions:
+  examples:
+    - |
+         "tištäken kid don cilä salə̑-mla ə̑də̑rə̑-mə̑la avar-tə̑-mə̑la kapna-vlä-m imn'i don šə̑pš-t-en-nä."
+    - |
+         "karem-ə̈m vanž-aš vurgə̑mla ve-kə̈r-äk näl-mə̈lä."
+    - |
+         "mə̈-läm läk-mə̈lä ölicä-š."
+  examples_glosses_russian:
+    - |
+         "здесь рука с весь косить-DEB собирать-DEB вздуваться-CAUS-DEB копна-PL-ACC лошадь и тянуть-CAUS-PRET-1PL"
+    - |
+         "овраг-ACC переходить-INF правый сторона-ILL2-CMPR брать-DEB"
+    - |
+         "я-DAT.POSS.1SG выходить-DEB улица-ILL"
+  examples_glosses_english:
+    - |
+         "here hand with entire mow-DEB collect-DEB inflate-CAUS-DEB stack-PL-ACC horse and pull-CAUS-PRET-1PL"
+    - |
+         "ravine-ACC cross_over-INF right side-ILL2-CMPR take-DEB"
+    - |
+         "I-DAT.POSS.1SG exit-DEB street-ILL"
+  examples_translation_russian:
+    - |
+         "‘Здесь всё вручную: косить, сгребать, ворошить надо, копны возили на лошадях’."
+    - |
+         "‘Чтобы перейти овраг, нужно взять немного направо’."
+    - |
+         "‘Мне нужно выйти на улицу’."
+  examples_translation_english:
+    - |
+         "‘Everything is done manually here: one needs to mow, to rake, to turn over [the grass], stacks are hauled on horseback’."
+    - |
+         "‘To cross the ravine, one should go to the right a little’."
+    - |
+         "‘I need to go outside’."
+  examples_sources:
+    - |
+         '[Корпус: “В старину
+  ”, 2]' 
+    - |
+         '[Корпус: “Дорога до церкви и в Кожланангер”, 14]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - NP
+    - DAT
+    - VP
+    - DEB
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Necessity
+          subtypes:
+            - type: Internal
+        - type: Necessity
+          subtypes:
+            - type: External
+  family:
+    - |
+      ""
+32:
+  name: "VP-mə̑la"
+  formula_gloss_russian: "VP-DEB"
+  formula_gloss_english: ""
+  illustration: "tə̈-škə̈ i-t ke, ke-n vac-mə̑la."
+  illustration_gloss_russian: "тот-ILL PROH-2SG идти ложиться-DEB"
+  illustration_gloss_english: "that-ILL PROH-2SG go lie_down-DEB"
+  illustration_translation_russian: "‘Туда не ходи, упадешь’."
+  illustration_translation_english: "‘Don't go that way, you will fall’."
+  definitions:
+  examples:
+    - |
+         "urok-ə̑štə̑ a-t kol-ə̑št gə̈n', dvojk-ə̑m polučajə̑-mə̑la."
+    - |
+         "tagačə̑ ti lekärc-ə̈m jü-mə̈kə̈, irgod-ə̑m tör-länə̈-mə̈lä."
+  examples_glosses_russian:
+    - |
+         "урок-IN NEG.NPST-2SG слышать-ITER если двойка-ACC получить-DEB"
+    - |
+         "сегодня этот лекарство-ACC пить-CVB.ANT завтрашний_день-ACC прямой-MAN-DEB"
+  examples_glosses_english:
+    - |
+         "lesson-IN NEG.NPST-2SG hear-ITER if bad_mark-ACC get-DEB"
+    - |
+         "today this medicine-ACC drink-CVB.ANT tomorrow-ACC direct-MAN-DEB"
+  examples_translation_russian:
+    - |
+         "‘Если не будешь слушать на уроке, получишь двойку’."
+    - |
+         "‘Если сегодня ты выпьешь это лекарство, то завтра выздоровеешь’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘If you don't listen [to the teacher] during the class, you'll get a bad mark’."
+    - |
+         "‘If you take this medecine today, you'll get well tomorrow’."
+    - |
+         "‘’."
+  examples_sources:
+    - |
+         '[Закирова (в печати)]' 
+    - |
+         '[Закирова (в печати)]' 
+  morphology:
+    - VP
+    - DEB
+  syntactic_type_of_construction:
+    - Morphological construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Apprehension
+      subtypes:
+        - type: Apprehensive
+        - type: Preventive
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: High degree of certainty
+  family:
+    - |
+      ""
+33:
+  name: "NP-Nom VP-šašlə̑k Cop"
+  formula_gloss_russian: "NP-NOM VP-OPT-DEST COP"
+  formula_gloss_english: ""
+  illustration: "mastar kran-ə̑m tör-lə̈-šäš-lə̑k ə̑l-eš."
+  illustration_gloss_russian: "мастер кран-ACC прямой-DENOM1-OPT-DEST быть-NPST.3SG"
+  illustration_gloss_english: "master tap-ACC direct-DENOM1-OPT-DEST be-NPST.3SG"
+  illustration_translation_russian: "‘Мастер должен починить кран’."
+  illustration_translation_english: "‘The master must fix the tap’."
+  definitions:
+  examples:
+    - |
+         "vot sv'eta tol-šaš-lə̑k dä pandə̑-m postar-šaš-lə̑k ə̑l-eš."
+    - |
+         "rovotajə̑-šaš-lə̑k ə̑l-eš lu=at kə̑m edem."
+    - |
+         "nünžə̈k-šə̈ kogo-n=ok pingə̈də̈ li-šäš-lə̑k agə̑l."
+  examples_glosses_russian:
+    - |
+         "вот Света приходить-OPT-DEST и палка-ACC собирать-OPT-DEST быть-NPST.3SG"
+    - |
+         "работать-OPT-DEST быть-NPST.3SG десять=ADD три человек"
+    - |
+         "тесто-POSS.3SG большой-ADV=EMPH твердый становиться-OPT-DEST NEG"
+  examples_glosses_english:
+    - |
+         "here_it_is Sveta come-OPT-DEST and stick-ACC collect-OPT-DEST be-NPST.3SG"
+    - |
+         "work-OPT-DEST be-NPST.3SG ten=ADD three person"
+    - |
+         "dough-POSS.3SG big-ADV=EMPH solid become-OPT-DEST NEG"
+  examples_translation_russian:
+    - |
+         "‘Вот Света должна прийти и палочки должна собирать’."
+    - |
+         "‘Должны работать 13 человек’."
+    - |
+         "‘Тесто не должно быть очень крепким’."
+  examples_translation_english:
+    - |
+         "‘Sveta has to come and to collect sticks’."
+    - |
+         "‘13 people have to work’."
+    - |
+         "‘The dough shouldn't be too strong’."
+  examples_sources:
+    - |
+         '[Корпус: “Двенадцать палочек (отличие)
+  ”, 7]' 
+    - |
+         '[Корпус: “Птицефабрика”, 152]' 
+    - |
+         '[Корпус: “О еде
+  ”, 10]' 
+  morphology:
+    - NP
+    - NOM
+    - VP
+    - OPT
+    - DEST
+    - COP
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Copula Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Necessity
+          subtypes:
+            - type: Internal
+        - type: Necessity
+          subtypes:
+            - type: External
+  family:
+    - |
+      ""
+34:
+  name: "NP-Nom keläš"
+  formula_gloss_russian: "NP-NOM быть_нужным"
+  formula_gloss_english: ""
+  illustration: "tə̈n' mə̈-län-ə̈m kel-ät."
+  illustration_gloss_russian: "ты я-DAT-POSS.1SG быть_нужным-NPST.2SG"
+  illustration_gloss_english: "you I-DAT-POSS.1SG be_needed-NPST.2SG"
+  illustration_translation_russian: "‘Ты мне нужен’."
+  illustration_translation_english: "‘I need you’."
+  definitions:
+  examples:
+    - |
+         "a sämə̈rə̈k mükš-vlä-m kušt-aš, b'elok kel-eš."
+    - |
+         "ukrop ulə̑, oxə̑ra kel-eš."
+    - |
+         "potə̑mu štə̑ tə̈ veremä-n mižgem-ə̈m ə̈št-äš pižorgə̑-m pid-äš, nosk'i-vlä-m
+   pid-äš miž kel-eš ə̑lə̑n."
+  examples_glosses_russian:
+    - |
+         "а молодой пчела-PL-ACC растить-INF белок быть_нужным-NPST.3SG"
+    - |
+         "укроп имеется лук быть_нужным-NPST.3SG"
+    - |
+         "потому что тот время-GEN валенок-ACC делать-INF варежка-ACC вязать-INF носки-PL-ACC вязать-INF шерсть быть_нужным-NPST.3SG RETR2"
+  examples_glosses_english:
+    - |
+         "and young bee-PL-ACC grow-INF protein be_needed-NPST.3SG"
+    - |
+         "dill exist onion be_needed-NPST.3SG"
+    - |
+         "because what that time-GEN valenok-ACC do-INF mitten-ACC knit-INF socks-PL-ACC knit-INF wool be_needed-NPST.3SG RETR3"
+  examples_translation_russian:
+    - |
+         "‘А чтобы растить молодых пчёл, нужен белок’."
+    - |
+         "‘Укроп есть, лук нужен’."
+    - |
+         "‘Потому что в то время, чтобы валенки делать, варежки вязать, носки вязать, нужна была шерсть’."
+  examples_translation_english:
+    - |
+         "‘To grow young bees proteins are needed’."
+    - |
+         "‘There is dill, onions are needed’."
+    - |
+         "‘Because at that time, to make valenki, to knit mittens, to knit socks, the wool was needed’."
+  examples_sources:
+    - |
+         '[Корпус: “Зимовье пчел
+  ”, 55]' 
+    - |
+         '[Корпус: “Разговор за столом”, 135]' 
+    - |
+         '[Корпус: “Низкая трава
+  ”, 19]' 
+  morphology:
+    - NP
+    - NOM
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Necessity
+          subtypes:
+            - type: Internal
+        - type: Necessity
+          subtypes:
+            - type: External
+  family:
+    - |
+      ""
+35:
+  name: "NP-Dat VP-Inf keleš"
+  formula_gloss_russian: "NP-DAT VP-INF быть_нужным-NPST.3SG"
+  formula_gloss_english: ""
+  illustration: "mə̈-läm ti päšä-m ə̈št-äš kel-eš."
+  illustration_gloss_russian: "я-DAT.POSS.1SG этот работа-ACC делать-INF быть_нужным-NPST.3SG"
+  illustration_gloss_english: "I-DAT.POSS.1SG this job-ACC do-INF be_needed-NPST.3SG"
+  illustration_translation_russian: "‘Мне нужно сделать эту работу’."
+  illustration_translation_english: "‘I need to do this job’."
+  definitions:
+  examples:
+    - |
+         "nə̈nə̈-län tə̈n'-ə̈m mə̑šk-ə̑ndal-aš kel-eš."
+    - |
+         "tidə̈ tə̈-län-et a-k kel."
+    - |
+         ""murav'ejn'ik-ə̈m pereg-äš kel-eš", — man-ə̑t."
+  examples_glosses_russian:
+    - |
+         "те-DAT ты-ACC мыть-ATT-INF быть_нужным-NPST.3SG"
+    - |
+         "этот ты-DAT-POSS.2SG NEG.NPST-3 быть_нужным"
+    - |
+         "муравейник-ACC хранить-INF быть_нужным-NPST.3SG говорить-NPST.3PL"
+  examples_glosses_english:
+    - |
+         "those-DAT you-ACC wash-ATT-INF be_needed-NPST.3SG"
+    - |
+         "this you-DAT-POSS.2SG NEG.NPST-3 be_needed"
+    - |
+         "ant_colony-ACC keep-INF be_needed-NPST.3SG say-NPST.3PL"
+  examples_translation_russian:
+    - |
+         "‘Им тебя нужно помыть’."
+    - |
+         "‘Это тебе не нужно’."
+    - |
+         "‘"Нужно беречь муравейник", – говорят’."
+  examples_translation_english:
+    - |
+         "‘They need to wash you’."
+    - |
+         "‘You don't need this’."
+    - |
+         "‘"We need to take care of ant colonies", — they say’."
+  examples_sources:
+    - |
+         '[Корпус: “Грязный котик
+  ”, 3]' 
+    - |
+         '[Корпус: “Диалог и рассказ о клюкве
+  ”, 29]' 
+    - |
+         '[Корпус: “Лето (описание картинок)”, 23]' 
+  morphology:
+    - NP
+    - DAT
+    - VP
+    - INF
+    - NPST
+    - 3
+    - SG
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Root modality
+      subtypes:
+        - type: Necessity
+          subtypes:
+            - type: Internal
+        - type: Necessity
+          subtypes:
+            - type: External
+  family:
+    - |
+      ""
+36:
+  name: "V-Inf väreštäš"
+  formula_gloss_russian: ""
+  formula_gloss_english: ""
+  illustration: ""
+  illustration_gloss_russian: ""
+  illustration_gloss_english: ""
+  illustration_translation_russian: ""
+  illustration_translation_english: ""
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+  examples_translation_english:
+  examples_sources:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""
+37:
+  name: "NP-Nom VP-ne-Poss"
+  formula_gloss_russian: "NP-NOM VP-DES-POSS"
+  formula_gloss_english: ""
+  illustration: "maša u poxan'a-m näl-ne-žə̈."
+  illustration_gloss_russian: "Маша новый кукла-ACC брать-DES-POSS.3SG"
+  illustration_gloss_english: "Masha new doll-ACC take-DES-POSS.3SG"
+  illustration_translation_russian: "‘Маша хочет купить новую куклу’."
+  illustration_translation_english: "‘Masha wants to buy a new doll’."
+  definitions:
+  examples:
+    - |
+         ""kek-ə̈m kə̑čə̑-ne-m", - man-eš."
+    - |
+         "pol'icejsk'ij-vlä kə̑dal-ə̑t - moren-ə̈m budka gə̈c pirə̈ lə̑k-ne-žə̈."
+    - |
+         "vot ə̈də̈räš ə̈-ne-žə̈ ke, jangə̑l-en, piš kogo-n kaxə̑r-a."
+  examples_glosses_russian:
+    - |
+         "птица-ACC держать-DES-1SG говорить-NPST.3SG"
+    - |
+         "полицейский-PL бежать-NPST.3PL заяц-ACC будка EL волк извлекать-DES-3SG"
+    - |
+         "вот девочка NEG.DES-DES-3SG идти уставать-PRET очень большой-ADV кашлять-NPST.3SG"
+  examples_glosses_english:
+    - |
+         "bird-ACC hold-DES-1SG say-NPST.3SG"
+    - |
+         "policeman-PL run-NPST.3PL hare-ACC booth EL wolf extract-DES-3SG"
+    - |
+         "here_it_is girl NEG.DES-DES-3SG go get_tired-PRET very big-ADV cough-NPST.3SG"
+  examples_translation_russian:
+    - |
+         "‘"Птицу хочу поймать", - говорит’."
+    - |
+         "‘Полицейские уедут - волк зайца из будки хочет вытащить’."
+    - |
+         "‘Вот девочка не хочет идти, устала, сильно кашляет’."
+  examples_translation_english:
+    - |
+         "‘"I want to catch a bird", - he says’."
+    - |
+         "‘Policemen leave and the wolf wants to take the hare from the booth’."
+    - |
+         "‘The girl doesn't want to go, she's tired and coughs a lot’."
+  examples_sources:
+    - |
+         '[Корпус: “Пересказ мультфильма "Жил-был пёс"”, 27]' 
+    - |
+         '[Корпус: “Пересказ мультфильма "Ну погоди"
+  ”, 8]' 
+    - |
+         '[Корпус: “Пересказ мультфильма "Песнь моря"”, 62]' 
+  morphology:
+    - NP
+    - NOM
+    - VP
+    - DES
+    - POSS
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Volition
+  family:
+    - |
+      ""
+38:
+  name: "NP-Gen VP-mə̑(-Poss) šoeš/šon"
+  formula_gloss_russian: "NP-GEN VP-NMLZ(-POSS) достигать-NPST.3SG/достигать-PRET"
+  formula_gloss_english: ""
+  illustration: "mə̈n'-ə̈n mägə̈rə̈-m-em šo-eš."
+  illustration_gloss_russian: "я-GEN плакать-NMLZ-POSS.1SG достигать-NPST.3SG"
+  illustration_gloss_english: "I-GEN cry-NMLZ-POSS.1SG reach-NPST.3SG"
+  illustration_translation_russian: "‘Мне хочется плакать’."
+  illustration_translation_english: "‘I want to cry’."
+  definitions:
+  examples:
+    - |
+         "tə̈n'-žə̈
+   škol-ə̑škə̑-žə̑ tə̑men'-äš kaš-m-et-šə̈ šo-eš?"
+    - |
+         "ə̈nde kač-mə̑ paštek rovotajə̑-mə̑-ž=at a-k šo, vac-mə̑ vel šo-eš."
+    - |
+         "pirə̈-n kon'ešnə so šo-eš kač-mə̑."
+  examples_glosses_russian:
+    - |
+         "ты-POSS.3SG школа-ILL-POSS.3SG учиться-INF ходить-PTCP.PASS/NMLZ-POSS.2SG-POSS.3SG достигать-NPST.3SG"
+    - |
+         "теперь есть-PTCP.PASS/NMLZ после работать-PTCP.PASS/NMLZ-POSS.3SG=ADD NEG.NPST-3 достигать ложиться-PTCP.PASS/NMLZ только достигать-NPST.3SG"
+    - |
+         "волк-GEN конечно всегда достигать-NPST.3SG есть-PTCP.PASS/NMLZ"
+  examples_glosses_english:
+    - |
+         "you-POSS.3SG school-ILL-POSS.3SG study-INF walk-PTCP.PASS/NMLZ-POSS.2SG-POSS.3SG reach-NPST.3SG"
+    - |
+         "now eat-PTCP.PASS/NMLZ after work-PTCP.PASS/NMLZ-POSS.3SG=ADD NEG.NPST-3 reach lie-PTCP.PASS/NMLZ only reach-NPST.3SG"
+    - |
+         "woolf-GEN of_course always reach-NPST.3SG eat-PTCP.PASS/NMLZ"
+  examples_translation_russian:
+    - |
+         "‘Тебе хочется в школу ходить учиться?’"
+    - |
+         "‘Теперь после еды работать не хочется, только полежать хочется’."
+    - |
+         "‘Волку, конечно, постоянно есть хочется’."
+  examples_translation_english:
+    - |
+         "‘Do you want to go to school and study?’"
+    - |
+         "‘Now they don't want to work after the meal, only want they to lie for a while’."
+    - |
+         "‘Woolf, of course, always wants to eat’."
+  examples_sources:
+    - |
+         '[Корпус: “Диалог с ребенком”, 61]' 
+    - |
+         '[Корпус: “Луга
+  ”, 19]' 
+    - |
+         '[Корпус: “Пересказ мультфильма "Жил-был пёс"”, 57]' 
+  morphology:
+    - NP
+    - GEN
+    - VP
+    - NMLZ
+    - POSS
+    - NPST
+    - 3
+    - SG
+    - PRET
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Volition
+  family:
+    - |
+      ""
+39:
+  name: "NP-Nom VP-ne-Poss ə̑l'ə̑ / ə̑lnežə̈"
+  formula_gloss_russian: "NP-NOM VP-DES-POSS RETR1 / ASSERT"
+  formula_gloss_english: ""
+  illustration: "mə̈n' irgod-ə̑m koncert-ə̈š ke-ne-m ə̑l'ə̑."
+  illustration_gloss_russian: "я завтрашний_день-ACC концерт-ILL идти-DES-POSS.1SG RETR1"
+  illustration_gloss_english: "I tomorrow-ACC concert-ILL go-DES-POSS.1SG RETR1"
+  illustration_translation_russian: "‘Я бы хотел завтра пойти на концерт’."
+  illustration_translation_english: "‘I'd like to go to the concert tomorrow’."
+  definitions:
+  examples:
+    - |
+         "i vot ma-m šajə̑š-ne-m ə̑l'ə̑ väl tidə̈ giš-än, l'iza-vlä giš-än?"
+    - |
+         "mə̈ń i-ne-m ə̑lnežə."
+    - |
+         "mə̈n' piš mə̑rə̑-ne-m ə̑lnežə̈, no a-m kerd."
+  examples_glosses_russian:
+    - |
+         "и вот что-ACC говорить-DES-1SG RETR1 QUEST этот о-LAT2 Лиза-PL о-LAT2"
+    - |
+         "я плавать-DES-1SG ASSERT"
+    - |
+         "я очень петь-DES-1SG ASSERT но NEG.NPST-1SG мочь"
+  examples_glosses_english:
+    - |
+         "and here_it_is what-ACC say-DES-1SG RETR1 QUEST this about-LAT2 Liza-PL about-LAT2"
+    - |
+         "I swim-DES-1SG ASSERT"
+    - |
+         "I very sing-DES-1SG ASSERT but NEG.NPST-1SG can"
+  examples_translation_russian:
+    - |
+         "‘И вот что я хотела сказать про это, про Лизу и ее семью?’"
+    - |
+         "‘Я бы хотел плавать’."
+    - |
+         "‘Я и хотел бы петь, но не могу’."
+  examples_translation_english:
+    - |
+         "‘And what I wanted to say about this, about Liza and her family?’"
+    - |
+         "‘I'd like to swim’."
+    - |
+         "‘I would be happy to sing but I can't’."
+  examples_sources:
+    - |
+         '[Корпус: “Диалог о проблемах
+  ”, 192]' 
+    - |
+         '[Alhoniemi 1993: 122]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - NP
+    - NOM
+    - VP
+    - DES
+    - POSS
+    - RETR1
+    - ASSERT
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Degree of intensity
+      subtypes:
+        - type: Diminisher
+    - type: Volition
+  family:
+    - |
+      ""
+40:
+  name: "NP-Gen VP-mə̑(-Poss) šoeš ə̑l'ə̑ / ə̑lnežə̈"
+  formula_gloss_russian: "NP-GEN VP-NMLZ(-POSS) достигать-NPST.3SG RETR1 / ASSERT"
+  formula_gloss_english: ""
+  illustration: "mə̈n'-ə̈n irgod-ə̑m koncert-ə̈š ke-m-em šo-eš ə̑lnežə̈."
+  illustration_gloss_russian: "я-GEN завтрашний_день-ACC концерт-ILL идти-NMLZ-POSS.1SG достигать-NPST.3SG ASSERT"
+  illustration_gloss_english: "I-GEN tomorrow-ACC concert-ILL go-NMLZ-POSS.1SG reach-NPST.3SG ASSERT"
+  illustration_translation_russian: "‘Мне бы хотелось завтра пойти на концерт’."
+  illustration_translation_english: "‘I'd like to go to the concert tomorrow’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - NP
+    - GEN
+    - VP
+    - NMLZ
+    - POSS
+    - NPST
+    - 3
+    - SG
+    - RETR1
+    - ASSERT
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Degree of intensity
+      subtypes:
+        - type: Diminisher
+    - type: Volition
+  family:
+    - |
+      ""
+41:
+  name: "NP-Nom VP-ne-Poss ə̑l'ə̑ / ə̑lə̑n"
+  formula_gloss_russian: "NP-NOM VP-DES-POSS RETR1 / RETR2"
+  formula_gloss_english: ""
+  illustration: "tengečə̈ tol-ne-m ə̑lə̑n gə̈n', mə̈n' tol-am ə̑lə̑n."
+  illustration_gloss_russian: "вчера приходить-DES-POSS.1SG RETR2 если я приходить-NPST.1SG RETR2"
+  illustration_gloss_english: "yesterday come-DES-POSS.1SG RETR2 if I come-NPST.1SG RETR2"
+  illustration_translation_russian: "‘Если бы я вчера хотел прийти, я бы пришел’."
+  illustration_translation_english: "‘If I had wanted to come yesterday, I would have come’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - NP
+    - NOM
+    - VP
+    - DES
+    - POSS
+    - RETR1
+    - RETR2
+  syntactic_type_of_construction:
+    - Morphological construction
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Past
+    - type: Volition
+  family:
+    - |
+      ""
+42:
+  name: "NP-Gen VP-mə̑(-Poss) šoeš ə̑l'ə̑ / ə̑lə̑n"
+  formula_gloss_russian: "NP-GEN VP-NMLZ(-POSS) достигать-NPST.3SG RETR1 / RETR2"
+  formula_gloss_english: ""
+  illustration: "mə̈n'-ə̈n tengečə̈ tol-m-em šo-eš ə̑l'ə̑ gə̈n', mə̈n' tol-am ə̑lə̑n."
+  illustration_gloss_russian: "я-GEN вчера приходить-NMLZ-POSS.1SG достигать-NPST.3SG RETR1 если я приходить-NPST.1SG RETR2"
+  illustration_gloss_english: "I-GEN yesterday come-NMLZ-POSS.1SG reach-NPST.3SG RETR1 if I come-NPST.1SG RETR2"
+  illustration_translation_russian: "‘Если бы мне вчера хотелось прийти, я бы пришел’."
+  illustration_translation_english: "‘If I had wanted to come yesterday, I would have come’."
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_translation_english:
+    - |
+         "‘’."
+    - |
+         "‘’."
+    - |
+         "‘’."
+  examples_sources:
+  morphology:
+    - NP
+    - GEN
+    - VP
+    - NMLZ
+    - POSS
+    - NPST
+    - 3
+    - SG
+    - RETR1
+    - RETR2
+  syntactic_type_of_construction:
+    - Matrix and Complement Construction
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Timeline
+      subtypes:
+        - type: Past
+    - type: Volition
+  family:
+    - |
+      ""
+43:
+  name: "VP / VP-ne-Poss ə̑lnežə̈"
+  formula_gloss_russian: "VP / VP-DES-POSS ASSERT"
+  formula_gloss_english: ""
+  illustration: "vazə̑-m kot'i pə̑də̑r-t-en ə̑lnežə̈."
+  illustration_gloss_russian: "ваза-ACC кошка ломаться-CAUS-PRET ASSERT"
+  illustration_gloss_english: "vase-ACC cat break-CAUS-PRET ASSERT"
+  illustration_translation_russian: "‘Это же кошка разбила вазу {а не мы с братиком}’."
+  illustration_translation_english: "‘That's the cat who broke the vase {not my brother and I}’."
+  definitions:
+  examples:
+    - |
+         "tə̈n'ə̈ kavšta-m nal-ə̈n-ät ə̑lnežə̈."
+    - |
+         "pi opt-a ə̑lnežə̈."
+    - |
+         "mə̈n' ške už-ə̑n-am, kə̑ce pet'a mägə̈r-en ə̑lnežə̈."
+  examples_glosses_russian:
+    - |
+         "ты капуста брать-PRET-2SG ASSERT"
+    - |
+         "собака лаять-NPST.3SG ASSERT"
+    - |
+         "я REFL видеть-PRET-1SG как Петя плакать-PRET ASSERT"
+  examples_glosses_english:
+    - |
+         "you cabbage take-PRET-2SG ASSERT"
+    - |
+         "dog bark-NPST.3SG ASSERT"
+    - |
+         "I REFL see-PRET-1SG how Petya cry-PRET ASSERT"
+  examples_translation_russian:
+    - |
+         "‘Ты же купил капусту. {Не одолжишь мне немного?}’"
+    - |
+         "‘Собака лает. {Открой дверь!}’"
+    - |
+         "‘Я сам видел, как Петя действительно плакал’."
+  examples_translation_english:
+    - |
+         "‘You bought cabbage, right? {Will you give me some?}’"
+    - |
+         "‘The dog is barking. {Open the door!}’"
+    - |
+         "‘I saw myself that Petya cried indeed’."
+  examples_sources:
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Мордашова (в печати)]' 
+    - |
+         '[Мордашова (в печати)]' 
+  morphology:
+    - VP
+    - DES
+    - POSS
+    - ASSERT
+  syntactic_type_of_construction:
+    - Clause
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+    - type: Concession
+      subtypes:
+        - type: Failed expectation
+    - type: Discourse structure
+      subtypes:
+        - type: Emphasis
+    - type: Epistemic modality (Degree of certainty)
+      subtypes:
+        - type: High degree of certainty
+  family:
+    - |
+      ""
+44:
+  name: ""
+  formula_gloss_russian: ""
+  formula_gloss_english: ""
+  illustration: ""
+  illustration_gloss_russian: ""
+  illustration_gloss_english: ""
+  illustration_translation_russian: ""
+  illustration_translation_english: ""
+  definitions:
+  examples:
+  examples_glosses_russian:
+  examples_glosses_english:
+  examples_translation_russian:
+  examples_translation_english:
+  examples_sources:
+  morphology:
+    - ~
+  syntactic_type_of_construction:
+    - ~
+  syntactic_function_of_anchor:
+    - ~
+  syntactic_structure_of_anchor:
+    - ~
+  part_of_speech_of_anchor:
+    - ~
+  references:
+    - |
+      
+  semantic_types:
+  family:
+    - |
+      ""

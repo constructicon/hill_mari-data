@@ -1,0 +1,41 @@
+name: Combine data files
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    env:
+      TARGET_BRANCH: generated
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+    - name: Combine data files
+      run: |
+        python combine-data.py data > data-combined.yml
+    - name: Commit and push to target branch
+      run: |-
+        git config --global user.email "workflow-bot@example.com"
+        git config --global user.name "workflow-bot"
+        git checkout --orphan $TARGET_BRANCH
+        git rm --cached -r .
+        mv data-combined*.yml ..
+        rm -rf *
+        mv ../data-combined*.yml .
+        git add .
+        git commit -m "automatically generated"
+        git push --set-upstream origin $TARGET_BRANCH --force
